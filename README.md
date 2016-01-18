@@ -7,7 +7,7 @@ This repository is the repository for all of assignments, all changes and assign
 ``` sh
 git clone git@github.com:MIDS-INFO-W18/assignment-skeleton.git
 git remote remove origin
-git remote add upstream git@github.com:MIDS-INFO-W18/assignment-skeleton.git
+git remote add upstream git@github.com:MIDS-INFO-W18/assignment-upstream.git
 git remote add origin <ENTER YOUR REPOSITORY URL HERE>
 ```
 
