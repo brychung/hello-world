@@ -1,0 +1,3 @@
+This guide might be helpful for those of us new to github. Has basic commands, troubleshooting, best practices, and links out the other resources.
+
+http://rogerdudler.github.io/git-guide/
