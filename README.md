@@ -20,14 +20,7 @@ To get the assignment you'll be running
 git pull upstream master
 ```
 
-Once you've completed the assignment
-``` sh
-git add week_* # * being the week number
-git commit
-
-```
-
-Then you'll push it up to your personal student repository.
+Then once you've commited your answers. You'll push it up to your personal student repository
 ```sh
 git push origin master
 ```
