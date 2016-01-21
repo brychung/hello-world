@@ -1,4 +1,4 @@
-﻿Aaron's first comment is here! - 1/20/2016
+Aaron's first comment is here! - 1/20/2016
 
 This is me(Maya), editing your file!
 This is me again, this time from the command line.
@@ -14,3 +14,5 @@ Editing the file again since my last check in is missing!
 The weather today in Mountain View, CA is 49 degrees and sunny. Yay!
 
 The goal for today is to put as many "force push" memes on the wall as possible.  - Jay
+
+Don’t ask me what you know is true.
