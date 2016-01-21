@@ -1,15 +1,12 @@
-<<<<<<< HEAD
 ﻿Aaron's first comment is here! - 1/20/2016
 
 This is me(Maya), editing your file!
 This is me again, this time from the command line.
 
 Hi Everyone. This is Ankith
-=======
 If I'm understanding the assignment correctly, I'm supposed to create this file, since there is not an existing version
 here in the playground
 
 It's 33 degrees Fahrenheit in New York today.
 
 Editing the file again since my last check in is missing!
->>>>>>> 2c3572fb28bb563a6b2b2603c7df1ff6cd3adafa
