@@ -1,3 +1,6 @@
 This guide might be helpful for those of us new to github. Has basic commands, troubleshooting, best practices, and links out the other resources.
 
 http://rogerdudler.github.io/git-guide/
+
+Thank you very much for this guide.  I will take all the help I can get!
+-Melanie
