@@ -2,3 +2,5 @@ If I'm understanding the assignment correctly, I'm supposed to create this file,
 here in the playground
 
 It's 33 degrees Fahrenheit in New York today.
+
+This is my first posting to the edit.txt file. It's 49 degrees today in Mountain View, CA. Hope everyone's having a great day!
