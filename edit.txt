@@ -10,3 +10,5 @@ here in the playground
 It's 33 degrees Fahrenheit in New York today.
 
 Editing the file again since my last check in is missing!
+
+The weather today in Mountain View, CA is 49 degrees and sunny.
