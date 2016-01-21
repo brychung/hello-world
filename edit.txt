@@ -1,0 +1,4 @@
+If I'm understanding the assignment correctly, I'm supposed to create this file, since there is not an existing version
+here in the playground
+
+It's 33 degrees Fahrenheit in New York today.
