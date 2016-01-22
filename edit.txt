@@ -24,3 +24,5 @@ This is Scott and I totally just edited this. I initially tried to fork, then cl
 OK OK .. I am giving it a shot from Milan Italy. -1°C i.e 30 Fahrenheit .. No forking here
 
 Wohoo! hope I got this right -EY
+
+For those of you using Terminal on a Mac, Silver Aerogel is the setting you want. Thank me later -PJ
