@@ -11,7 +11,7 @@ git remote add upstream git@github.com:MIDS-INFO-W18/assignment-upstream.git
 git remote add origin <ENTER YOUR REPOSITORY SSH URL HERE>
 ```
 
-Keep it mind that the above url will require you the format of `git@github.com:MIDS-INFO-W18` etc.
+Keep it mind that the above url wil lneed to be in the format of `git@github.com:MIDS-INFO-W18` etc.
 
 ## Every week
 
