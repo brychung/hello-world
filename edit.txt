@@ -32,3 +32,5 @@ For those of you using Terminal on a Mac, Silver Aerogel is the setting you want
 Raining in south Florida today - 1/22/2016 - AP
 
 Major snowstorm this weekend - freezing from East Coast
+
+This is dan wald's entry.  On sunday, I plan to fix capitalization to this line and add a weather update.  I have been having trouble operating from the command line.  It is a clear and cool night out of Manhattan Beach, CA.  Sorry, East Coast...
