@@ -1,4 +1,4 @@
-Aaron's first comment here! - 1/20/2016
+﻿Aaron's first comment here! - 1/20/2016
 
 This is me(Maya), editing your file!
 This is me again, this time from the command line.
@@ -34,3 +34,5 @@ Raining in south Florida today - 1/22/2016 - AP
 Major snowstorm this weekend - freezing from East Coast
 
 This is dan wald's entry.  On sunday, I plan to fix capitalization to this line and add a weather update.  I have been having trouble operating git from the command line.  It is a clear and cool night out of Manhattan Beach, CA.  Sorry, East Coast...
+
+Hi, This is Jan here. Trying to catch up Frday evening on my course work 1/22/2016
