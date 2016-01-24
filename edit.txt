@@ -7,7 +7,7 @@ Hi Everyone. This is Ankith
 If I'm understanding the assignment correctly, I'm supposed to create this file, since there is not an existing version
 here in the playground
 
-It's 33 degrees Fahrenheit in New York today.
+It's 33 degrees Fahrenheit in New York today. Now it's 25 and there is a ton of snow on the ground!
 
 Editing the file again since my last check in is missing!
 
