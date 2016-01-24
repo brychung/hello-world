@@ -1,9 +1,63 @@
-﻿Aaron's first comment is here! - 1/20/2016
+﻿Aaron's first comment here! - 1/20/2016
 
 This is me(Maya), editing your file!
 This is me again, this time from the command line.
 
 Hi Everyone. This is Ankith
+If I'm understanding the assignment correctly, I'm supposed to create this file, since there is not an existing version
+here in the playground
+
+It's 33 degrees Fahrenheit in New York today. Now it's 25 and there is a ton of snow on the ground!
+
+Editing the file again since my last check in is missing!
+
+The weather today in Mountain View, CA is 49 degrees and sunny. Yay!
+
+The goal for today is to put as many "force push" memes on the wall as possible.  - Jay
+
+Don’t ask me what you know is true. Don't have to tell me...
+
+edit edit ribbit edit  - MV
+
+One final edit for the road.
+
+This is Scott and I totally just edited this. I initially tried to fork, then clone/edit/commit/push but then I wasn't sure how to get from my fork back to the live location. This is attempt #2 after having cloned the playground directly without forking. Seriously, no forking around. - 1/21/2016
+
+OK OK .. I am giving it a shot from Milan Italy. -1°C i.e 30 Fahrenheit .. No forking here
+
+Wohoo! hope I got this right -EY
+
+Finally! I hope this works-Priya
+
+For those of you using Terminal on a Mac, Silver Aerogel is the setting you want. Thank me later -PJ
+
+Raining in south Florida today - 1/22/2016 - AP
+
+Major snowstorm this weekend - freezing from East Coast
+
+This is dan wald's entry.  On sunday, I plan to fix capitalization to this line and add a weather update.  I have been having trouble operating git from the command line.  It is a clear and cool night out of Manhattan Beach, CA.  Sorry, East Coast...
+
+Hi, This is Jan here. Trying to catch up Frday evening on my course work 1/22/2016
+Saddest short story: "For sale: baby shoes. Never worn."
+ � �I� �h�a�v�e� �n�o� �i�d�e�a� �w�h�y� �m�y� �t�e�x�t� �l�o�o�k�s� �s�o� �w�e�i�r�d� �o�r� �w�h�y� �\�n� �d�o�e�s�n�'�t� �s�e�e�m� �t�o� �w�o�r�k� �f�o�r� �m�e�.� �-�-� �A�a�r�o�n�'�s� �s�e�c�o�n�d� �c�o�m�m�e�n�t�
+�
+�
+This is Melanie. My first edit got wiped out earlier this week by a force push.  This is my second edit.
+
+ok -- snowing in atl this morning
+no Snowmageddon this time...
+kate
+
+One more change :) Goodluck on the hw!
+
+hmmmm....let me see something
+ Hi this is Sandip - my first edit to this file. 
+
+****
+Part of me wants to overwrite everyone's changes.  But that would make me the playground bully, wouldn't it?
+***
 
 
-This is Lana :)
+This is Sandip again - to clarify, above line was not my comment :-)
+jason harville test1
+Reminder there is a W18 slack channel in the mids group
