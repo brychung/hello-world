@@ -21,7 +21,7 @@ edit edit ribbit edit  - MV
 
 One final edit for the road.
 
-This is Scott and I totally just edited this. I initially tried to fork, then clone/edit/commit/push but then I wasn't sure how to get from my fork back to the live location. This is attempt #2 after having cloned the playground directly without forking. Seriously, no forking around. - 1/21/2016
+This is Scott and I totally just edited this. I initially tried to fork, then clone/edit/commit/push but then I wasn't sure how to get from my fork back to the live location. This is attempt #2 after having cloned the playground directly without forking. Seriously, no forking around. - 1/21/201
 
 OK OK .. I am giving it a shot from Milan Italy. -1°C i.e 30 Fahrenheit .. No forking here
 
@@ -65,3 +65,5 @@ Reminder there is a W18 slack channel in the mids group
 This is Lana's second commit/push.
 
 This is Laura trying my first commit/push. I didn’t fork first, I have no idea if that matters or not. I’ll figure that out soon enough.
+
+I’m back -EY
