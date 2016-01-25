@@ -1,4 +1,4 @@
-Aaron's first comment here! - 1/20/2016
+﻿Aaron's first comment here! - 1/20/2016
 
 This is me(Maya), editing your file!
 This is me again, this time from the command line.
@@ -76,3 +76,10 @@ Does anybody know why it added my first line ('testing adding something to the e
 hello
 Hello from the command line. -A Dell
 THIS IS HOW WE DO IT
+
+
+***
+I found this good git guide: http://rogerdudler.github.io/git-guide/
+No idea if it all is valid, but so far it has helped me!
+APope - 2nd commit
+***
