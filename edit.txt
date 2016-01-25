@@ -67,3 +67,6 @@ This is Lana's second commit/push.
 This is Laura trying my first commit/push. I didn’t fork first, I have no idea if that matters or not. I’ll figure that out soon enough.
 
 I’m back -EY
+
+***
+took me sooooooo long to set up github...
