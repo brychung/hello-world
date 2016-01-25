@@ -92,3 +92,6 @@ editor 1 making a change to a file
 =======
 editor 2 making a change to a file
 >>>>>>> 8460f54c0631b6291a241a98a26f547720fd6a12
+
+
+monday morning - kate
