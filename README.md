@@ -6,11 +6,11 @@ This repository is the repository for all of assignments, all changes and assign
 You do not need to do any forking of any repositories. We have created all of the repositories that you are going to need for this class.
 
 ## Initial Setup
-To set this up you're going to need to mirror this repository to your local machine then edit the repository on your local machine to point to both the upstream as well as your `student123` repository.
+3To set this up you're going to need to mirror this repository to your local machine then edit the repository on your local machine to point to both the upstream as well as your `student123` repository.
 ``` sh
 # copy this repository
 git clone git@github.com:MIDS-INFO-W18/assignment-upstream.git
-# remove the pointer to the upstream repository
+cd assignment-upstream
 git remote remove origin
 # add it back as another name
 git remote add upstream git@github.com:MIDS-INFO-W18/assignment-upstream.git
