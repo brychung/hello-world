@@ -104,3 +104,5 @@ This is Melanie again.  For once it is not raining in Portland.
 Harville 2nd edit
 editor 1 making a change to a file
 expected text, got binary
+
+Hoping this file is a text file now :-)
