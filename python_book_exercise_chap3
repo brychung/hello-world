@@ -1,0 +1,101 @@
+#introducing python 
+#chap 3 TO DO
+
+
+#3.1 
+'''
+Create a list called 
+years_list
+, starting with the year of your birth, and each year
+thereafter until the year of your fifth birthday. For example, if you were born in 1980.
+the list would be 
+years_list = [1980, 1981, 1982, 1983, 1984, 1985]
+'''
+years_list=[]
+birth_year=1975
+count = 0
+while count in range(5):
+    years_list.append(birth_year)
+    birth_year+=1
+    count+=1
+print(years_list)
+
+
+
+years_list=[]
+birth_year=1975
+count = 0
+while count <5:
+    years_list.append(birth_year)
+    birth_year+=1
+    count+=1
+print(years_list)
+
+
+
+years_list=[]
+birth_year=1975
+while len(years_list)<5:
+    years_list.append(birth_year)
+    birth_year+=1
+print(years_list)
+
+
+
+years_list=[]
+birth_year=1975
+while True:
+    years_list.append(birth_year)
+    birth_year+=1
+    if len(years_list)==5:
+        break
+print years_list
+
+
+
+#3.2
+'''
+ In which year in 
+years_list
+ was your third birthday? Remember, you were 0 years
+of age for your first year.
+'''
+
+print(years_list[2])
+
+#the formatting is not good with the ()
+#print('I was three years old in year: ',years_list[2])
+
+print "I was three years old in year:",years_list[2]
+
+
+
+#3.3
+'''
+In which year in 
+years_list
+ were you the oldest
+ '''
+ 
+print "I was the oldest in year:",max(years_list)
+
+#3.4
+'''Make a list called 
+things with these three strings as elements: 
+"mozzarella" "cinderella" "salmonella"
+.'''
+
+things = ["mozzarella", "cinderella", "salmonella"]
+print things
+
+
+
+#3.5
+''' Capitalize the element in things
+that refers to a person and then print the list. Did
+it change the element in the list?
+'''
+
+
+#testing an edit to my own file
+#testing a branch edit to my own file

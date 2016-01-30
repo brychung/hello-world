@@ -1,0 +1,4 @@
+.getignore
+*~
+.gitignore
+LICENSE.md

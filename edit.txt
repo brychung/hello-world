@@ -1,4 +1,10 @@
-﻿Aaron's first comment here! - 1/20/2016
+﻿
+here in the playground
+
+It's 33 degrees Fahrenheit in New York today.
+
+<<<<<<<<<HEAD
+Aaron's first comment here! - 1/20/2016
 
 This is me(Maya), editing your file!
 This is me again, this time from the command line.
@@ -6,34 +12,97 @@ This is me again, this time from the command line.
 Hi Everyone. This is Ankith
 If I'm understanding the assignment correctly, I'm supposed to create this file, since there is not an existing version
 here in the playground
+The Republican governor, known for his controversial statements, was speaking on local radio Tuesday about combating the drug epidemic in his state.
 
-It's 33 degrees Fahrenheit in New York today.
+"We've got to go 20 years, we've got to keep them here until they die," he added. "If you want my honest opinion, we should give them an injection of the stuff they sell."
 
-Editing the file again since my last check in is missing!
+mkdir Desktop/demo
+cd Desktop/demo
+mkdir editor1
+mkdir editor
+Hi Everyone. This is Ankith
+If I'm understanding the assignment correctly, I'm supposed to create this file, since there is not an existing version
+here in the playground
+The Republican governor, known for his controversial statements, was spethree-month period that ended December 31, 2015. Financial analysts predict Apple's quarterly revenue will range between $74.6 bilAaron's first comment here! - 1/20/2016
 
-The weather today in Mountain View, CA is 49 degrees and sunny. Yay!
+This is me(Maya), editing your file!
+This is me again, this time from the command line.
 
-The goal for today is to put as many "force push" memes on the wall as possible.  - Jay
+Hi Everyone. This is Ankith
+If I'm understanding the assignment correctly, I'm supposed to create this file, since there is not an existing version
+here in the playground
+The Republican governor, known for his controversial statements, was speaking on local radio Tuesday about combating the drug epidemic in his staAaron's first comment here! - 1/20/2016
 
-Don’t ask me what you know is true. Don't have to tell me...
+This is me(Maya), editing your file!
+This is me again, this time from the command line.
 
-edit edit ribbit edit  - MV
+Hi Everyone. This is Ankith
+If I'm understanding the assignment correctly, I'm supposed to create this file, since there is not an existing version
+here in the playground
+The Republican governor, known for his controversial statements, was speaking on local radio Tuesday about combating the drug epidemic in his state.
 
-This is Scott and I totally just edited this. I initially tried to fork, then clone/edit/commit/push but then I wasn't sure how to get from my fork back to the live location. This is attempt #2 after having cloned the playground directly without forking. Seriously, no forking around. - 1/21/2016
+"We've got to go 20 years, we've got to keep them here until they die," he added. "If you want my honest opinion, we should give them an injection of the stuff they sell."
 
-OK OK .. I am giving it a shot from Milan Italy. -1°C i.e 30 Fahrenheit .. No forking here
+mkdir Desktop/demo
+cd Desktop/demo
+mkdir editor1
+mkdir editor2
+cd editor1
+git clone git@github.com:MIDS-INFO-W18/github-playground.git
+cd ../editor2
+git clone git@github.com:MIDS-INFO-W18/github-playground.git
+# now we have two users working on the same repository
 
-Wohoo! hope I got this right -EY
+# NOW AT TIME 2
 
-Finally! I hope this works-Priya
+ce there is not an existing version
+here in the playground
+The Republican governor, known for his controversial statements, was speaking on local radio Tuesday about combating the drug epidemic in his state.
 
-For those of you using Terminal on a Mac, Silver Aerogel is the setting you want. Thank me later -PJ
+"We've got to go 20 years, we've got to keep them here until they die," he added. "If you want my honest opinion, we should give them an injection of the stuff they sell."
 
-Raining in south Florida today - 1/22/2016 - AP
+mkdir Desktop/demo
+cd Desktop/demo
+mkdir editor1
+mkdir editor2
+cd editor1
+git clone git@github.com:MIDS-INFO-W18/github-playground.git
+cd ../editor2
+git clone git@github.com:MIDS-INFO-W18/github-playground.git
+# now we have two users working on the same repository
 
-Major snowstorm this weekend - freezing from East Coast
+# NOW AT TIME 2
 
-This is dan wald's entry.  On sunday, I plan to fix capitalization to this line and add a weather update.  I have been having trouble operating git from the command line.  It is a clear and cool night out of Manhattan Beach, CA.  Sorry, East Coast...
+cd ..te.
 
-Hi, This is Jan here. Trying to catch up Frday evening on my course work 1/22/2016
-Saddest short story: "For sale: baby shoes. Never worn."
+"We've got to go 20 years, we've got to keep them here until they die," he added. "If you want my honest opinion, we should give them an injection of the stuff they sell."
+
+mkdir Desktop/demo
+cd Desktop/demo
+mkdir editor1
+mkdir editor2
+cd editor1
+git clone git@github.com:MIDS-INFO-W18/github-playground.git
+cd ../editor2
+git clone git@github.com:MIDS-INFO-W18/github-playground.git
+# now we have two users working on the same repository
+
+# NOW AT TIME 2
+
+cd ..lion and $82.4 billion, but some market watchers are unsure if Apple will top the record 74.5 million iPhones it sold in the year-ago quarter, due to perceived lower iPhone 6s sales.
+
+iPhone 6s sales concerns might be more evident in Q2 2016, however, as Apple's newest products and services, including the Apple Watch, Apple Music and the new Apple TV, coupled with the busy holiday shopping season, fuel projections that Apple will again report the most profitable holiday quarter in not only the iPhone maker's nearly 40-year history, but of any company ever.
+
+Apple's guidance is between $75.5 billion and $77.5 billion in quarterly revenue, while the consensus among professional analysts is around $76.5 billion.
+
+
+For those of you using Terminal on a Mac, Silver Aerogel is the setting you
+
+This is Melanie. My first edit got wiped out earlier this week by a force push.  This is my second edit.
+
+This is Melanie again.  For once it is not raining in Portland.
+Harville 2nd edit
+editor 1 making a change to a file
+expected text, got binary
+
+Hoping this file is a text file now :-)
