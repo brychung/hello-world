@@ -106,3 +106,4 @@ editor 1 making a change to a file
 expected text, got binary
 
 Hoping this file is a text file now :-)
+Testing again
