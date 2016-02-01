@@ -1,4 +1,4 @@
-﻿
+
 here in the playground
 
 It's 33 degrees Fahrenheit in New York today.
@@ -107,3 +107,5 @@ expected text, got binary
 
 Hoping this file is a text file now :-)
 Testing again
+
+New commit .. Just in case
