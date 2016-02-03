@@ -16,7 +16,7 @@
 # path for HW Submission folder (original location of files)
 ORIGINAL_LOC = /Users/mmillervedam/Documents/MIDS/python_bridge_course/HW_Assignments/week_1
 # path for HW Sharing folder (destination for shared files)
-DESTINATION = /Users/mmillervedam/Documents/MIDS/python_bridge_course/homework-share/week_1
+DESTINATION = /Users/mmillervedam/Documents/MIDS/python_bridge_course/homework-share/week_1/mmillervedam
 
 # STEP 1: cd into folder where I save and submit my hw for that week.
 cd $ORIGINAL_LOC
