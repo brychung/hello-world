@@ -11,14 +11,14 @@
 # Edit this path to be specifically applicable to your homework-share clone
 destination=C:/Users/"Scott Marler"/Documents/"UC Berkeley"/Courses/"Bridge - Python"/homework-share/
 cd "$destination"    			#The quotes around the destination variable account for any spaces that may be in the path name
-echo 							#just a line spacer to make the output easier to read
+echo 					#just a line spacer to make the output easier to read
 echo "Hello. Just a moment - performing git pull on $destination"
 echo
 git pull
 
 # STEP 1: Solicit the week # and define folder paths as variables
 # Edit this path to be specifically applicable to your folder where you keep the assignments you push weekly for official homework submission.
-# Leave the ending structure in place (so that it ends in /assignment-upstream/week_")
+# Leave the ending structure in place (so that it ends in "/assignment-upstream/week_")
 origin=C:/Users/"Scott Marler"/Documents/"UC Berkeley"/Courses/"Bridge - Python"/assignment-upstream/week_
 echo
 # In my own testing, I attempted to create my named folder under a week that didn't yet exist, and it wouldn't let me do it...
