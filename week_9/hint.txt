@@ -1,0 +1,2 @@
+
+Hint: In the json and pickle files the number refers to the original row number. You'll need to write a function that gets all of the values from each key (like address or phone) and puts them into a list so that you can combine them with the other data.
