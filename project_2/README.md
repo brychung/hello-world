@@ -28,7 +28,7 @@ You should have started digging into your analysis at this point and the proposa
 
 **THE REPORTS ARE DUE BY APRIL 26**
 
-### Report 1: PDF
+### The Formal PDF
 
 - This should be a formal, professional, write up of what you discovered and how you discovered it. 
 - This should be of a high information density. 
