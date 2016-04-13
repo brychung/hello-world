@@ -20,6 +20,7 @@ This should include:
 - References to column names and the analysis that they may provide. 
 - Additional datasets that you plan on including in your analysis like the weather data. This means links, columns that you'll join on, etc.
 - What you plan to cover in the final report and how you plan on organizing it.
+- Who is in your group.
 
 You should have started digging into your analysis at this point and the proposal is an expression of its viability to the instructors. We should have the sense that this is something you will be able to deliver on (and that the data will support you in doing so).
 
