@@ -5,12 +5,14 @@ The final project will consist of a dataset analysis along the lines of what we 
 ## The Setup & Instructions
 - 2 to 3 people (no exceptions)
 
-#### The Data Analysis
+### The Data Analysis
 - Unguided in the fact that there are no strict (you must do X or you must do Y)
 - Will consist of an analysis of either an *instructor approved dataset of your finding* or one that we have preapproved. You may join several datasets together for example to be able to answer questions like, after 2 days of rain, is felony crime higher in NYC?
 - This is not a strict statistical analysis and we are not doing any predictive modeling. We don't want to deal with randomization, inferential statistics or anything of the sort. Just note interesting things and feel free to discuss them.
 
-#### The Proposal
+### The Proposal
+
+**THE PROPOSAL IS DUE BY APRIL 12.**
 
 With your group come up with a 2 page proposal about the questions that you intend to ask of the data. 
 This should include:
@@ -21,17 +23,35 @@ This should include:
 
 You should have started digging into your analysis at this point and the proposal is an expression of its viability to the instructors. We should have the sense that this is something you will be able to deliver on (and that the data will support you in doing so).
 
-**THE PROPOSAL IS DUE BY APRIL 12.**
+## The Reports
 
-#### The Report
+**THE REPORTS ARE DUE BY APRIL 26**
 
-The report will be 8+ pages (including appropriately sized figures) and will be a report on what you found out from the data. This should focus on telling stories and explaining the narrative of the exploration and challenges associated with that. The report should not include any code - all code should be included in a sub-folder in either plain python files or in jupyter notebooks.
+### Report 1: PDF
 
-For the report, any graph, table, or figure should be annotated with why it is included. This is really to enforce just slapping graphs in your report that have no meaning.
+- This should be a formal, professional, write up of what you discovered and how you discovered it. 
+- This should be of a high information density. 
+- This should be single spaced and included appropriate references to data sources and how to access them. This should mirror something you would turn into a boss, a journal.
+- This report should be 5+ pages in length but no longer than 10 pages.
+- This report should include images, figures, equations, and tables that may help the reader. 
+  - Explanations for plots, figures, and tables should be included and obviously relevant to that part of the report.
+  - Keep this all relevant.
+  - This report should not include any code. Small images of equations or references to those are fine.
 
-One thing to note, using github to share jupyter notebook is a **nightmare**. Be sure to create copies of notebooks when you make an edit and as code gets stable, you'll likely find it easier to just put it into a python file and import it.
+### Lab Notebook: Jupyter Notebook
 
-**THE REPORT IS DUE BY APRIL 26**.
+This section doesn't have a hard page length but it should be a lab notebook style report. It should talk about things you tried that didn't work, things that you explored that didn't teach you anything or didn't give any definitive results, as well as including what did work. 
+
+It should be somewhat narrative style in that you talk about the process of learning and the process of working with this data. This should include figures and tables but should also be cleaned up so no code that doesn't execute, no error messages, etc. This can and will likely include duplicate content from the PDF (in fact this might be the narrative that you use to describe the process of report 1), so don't worry about make it totally different.
+
+The top of this notebook should explain exactly how to download the data [you should provide a dropbox/google drive link if your data isn't immediately available for download] and then everything should just work. There may be certain exceptions here but please email me if you think you're going to have some problem here.
+
+**This is required to be on every student's (in the group) github account and publicly available.**
+
+### Zipped Folder: Code + Data
+This should just be a dump of all other material involved in your project. Old notebooks, data, etc.
+
+# The Data
 
 ## Instructor Pre-Approved Datasets
 - [Political Ad Archive](http://politicaladarchive.org/data/)
