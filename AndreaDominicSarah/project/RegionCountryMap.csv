@@ -1,220 +1,218 @@
-Region,Country
-Africa,Algeria (French) 
-Africa, Angola (Portuguese)
-Africa, Benin (French)
-Africa, Botswana
-Africa, Burkina Faso (French)
-Africa, Burundi (French)
-Africa, Cameroon (French)
-Africa, Cabo Verde (Portuguese)
-Africa, Central African Republic (French)
-Africa, Chad (French)
-Africa, Comoros (French)
-Africa, Congo (French)
-Africa, Cote d'Ivoire (French)
-Africa, Democratic Republic of Congo (French)
-Africa, Equatorial Guinea (French)
-Africa, Ethiopia
-Africa, Eritrea
-Africa, Gabon (French)
-Africa, Gambia
-Africa, Ghana
-Africa, Guinea (French)
-Africa, Guinea-Bissau (Portuguese)
-Africa, Kenya
-Africa, Lesotho
-Africa, Liberia
-Africa, Madagascar (French)
-Africa, Malawi
-Africa, Mali (French)
-Africa, Mauritania (French)
-Africa, Mauritius 
-Africa, Mozambique (Portuguese) (English)
-Africa, Namibia
-Africa, Niger (French)
-Africa, Nigeria
-Africa, Rwanda
-Africa, Sao Tome and Principe (French)
-Africa, Senegal (French)
-Africa, Seychelles
-Africa, Sierra Leone
-Africa, South Africa
-Africa,South Sudan
-Africa, Swaziland
-Africa, Togo (French)
-Africa, Uganda
-Africa, United Republic of Tanzania
-Africa, Zambia
-Africa, Zimbabwe
-Americas, Anguilla
-Americas, Argentina
-Americas, Bahamas
-Americas, Belize
-Americas, Bolivarian Republic of Venezuela
-Americas, Brazil
-Americas, Canada
-Americas, Chile
-Americas, Costa Rica
-Americas, Dominica
-Americas, Ecuador
-Americas, French Guiana
-Americas, Guadeloupe
-Americas, Guyana
-Americas, Honduras
-Americas, Martinique
-Americas, Montserrat
-Americas, Nicaragua
-Americas, Paraguay
-Americas, Puerto Rico
-Americas, Saint Lucia
-Americas, Suriname
-Americas, Turks and Caicos
-Americas, Uruguay
-Americas, Antigua and Barbuda
-Americas, Aruba
-Americas, Barbados
-Americas, Bermuda
-Americas, Bolivia
-Americas, British Virgin Islands (UK)
-Americas, Cayman Islands
-Americas, Colombia
-Americas, Cuba
-Americas, Dominican Republic
-Americas, El Salvador
-Americas, Grenada
-Americas, Guatemala
-Americas, Haiti
-Americas, Jamaica
-Americas, Mexico
-Americas, Netherland Antilles
-Americas, Panama
-Americas, Peru
-Americas, Saint Kitts and Nevis
-Americas, Saint Vincent and the Grenadines
-Americas, Trinidad and Tobago
-Americas, United States of America
-Eastern Mediterranean,Afghanistan
-Eastern Mediterranean,Bahrain
-Eastern Mediterranean,Djibouti
-Eastern Mediterranean,Egypt
-Eastern Mediterranean,"Iran, Islamic Republic of"
-Eastern Mediterranean,Iraq
-Eastern Mediterranean,Jordan
-Eastern Mediterranean,Kuwait
-Eastern Mediterranean,Lebanon
-Eastern Mediterranean,Libya
-Eastern Mediterranean,Morocco
-Eastern Mediterranean,Occupied Palestinian territory
-Eastern Mediterranean,Oman
-Eastern Mediterranean,Pakistan
-Eastern Mediterranean,"Palestine, see Occupied Palestinian territory"
-Eastern Mediterranean,Qatar
-Eastern Mediterranean,Saudi Arabia
-Eastern Mediterranean,Somalia
-Eastern Mediterranean,Sudan
-Eastern Mediterranean,Syrian Arab Republic
-Eastern Mediterranean,Tunisia
-Eastern Mediterranean,United Arab Emirates
-Eastern Mediterranean,Yemen
-Europe,Albania
-Europe,Andorra
-Europe,Armenia
-Europe,Austria
-Europe,Azerbaijan
-Europe,Belarus
-Europe,Belgium
-Europe,Bosnia and Herzegovina
-Europe,Bulgaria
-Europe,Croatia
-Europe,Cyprus
-Europe,Czech Republic
-Europe,Denmark
-Europe,Estonia
-Europe,Finland
-Europe,France
-Europe,Georgia
-Europe,Germany
-Europe,Greece
-Europe,Hungary
-Europe,Iceland
-Europe,Ireland
-Europe,Israel
-Europe,Italy
-Europe,Kazakhstan
-Europe,Kyrgyzstan
-Europe,Latvia
-Europe,Lithuania
-Europe,Luxembourg
-Europe,Malta
-Europe,Monaco
-Europe,Montenegro
-Europe,Netherlands
-Europe,Norway
-Europe,Poland
-Europe,Portugal
-Europe,Republic of Moldova
-Europe,Romania
-Europe,Russian Federation
-Europe,San Marino
-Europe,Serbia
-Europe,Slovakia
-Europe,Slovenia
-Europe,Spain
-Europe,Sweden
-Europe,Switzerland
-Europe,Tajikistan
-Europe,The former Yugoslav Republic of Macedonia
-Europe,Turkey
-Europe,Turkmenistan
-Europe,Ukraine
-Europe,United Kingdom of Great Britain and Northern Ireland
-Europe,Uzbekistan
-Region,Country
-South-East Asia,Bangladesh
-South-East Asia,Bhutan
-South-East Asia,Democratic People’s Republic of Korea
-South-East Asia,India
-South-East Asia,Indonesia
-South-East Asia,Maldives
-South-East Asia,Myanmar
-South-East Asia,Nepal
-South-East Asia,Sri Lanka
-South-East Asia,Thailand
-South-East Asia,Timor-Leste
-Western Pacific,American Samoa
-Western Pacific,Australia
-Western Pacific,Brunei Darussalam
-Western Pacific,Cambodia
-Western Pacific,China
-Western Pacific,Cook Islands
-Western Pacific,Fiji
-Western Pacific,French Polynesia (France)
-Western Pacific,Guam (USA)
-Western Pacific,Hong Kong (China)
-Western Pacific,Japan
-Western Pacific,Kiribati
-Western Pacific,Lao People's Democratic Republic
-Western Pacific,Macao (China)
-Western Pacific,Malaysia
-Western Pacific,Marshall Islands
-Western Pacific,"Micronesia, Federated States of"
-Western Pacific,Mongolia
-Western Pacific,Nauru
-Western Pacific,New Caledonia (France)
-Western Pacific,New Zealand
-Western Pacific,Niue
-Western Pacific,"Northern Mariana Islands, Commonwealth of the"
-Western Pacific,Palau
-Western Pacific,Papua New Guinea
-Western Pacific,Philippines
-Western Pacific,Pitcairn Islands (UK)
-Western Pacific,Republic of Korea
-Western Pacific,Samoa
-Western Pacific,Singapore
-Western Pacific,Solomon Islands
-Western Pacific,Tokelau* (New Zealand)
-Western Pacific,Tonga
-Western Pacific,Tuvalu
-Western Pacific,Vanuatu
-Western Pacific,Viet Nam
-Western Pacific,Wallis and Futuna
+,Country,Region
+0,Algeria ,Africa
+1,Angola ,Africa
+2,Benin ,Africa
+3,Botswana,Africa
+4,Burkina Faso ,Africa
+5,Burundi ,Africa
+6,Cameroon ,Africa
+7,Cabo Verde ,Africa
+8,Central African Republic ,Africa
+9,Chad ,Africa
+10,Comoros ,Africa
+11,Congo ,Africa
+12,Cote d'Ivoire ,Africa
+13,Democratic Republic of Congo ,Africa
+14,Equatorial Guinea ,Africa
+15,Ethiopia,Africa
+16,Eritrea,Africa
+17,Gabon ,Africa
+18,Gambia,Africa
+19,Ghana,Africa
+20,Guinea ,Africa
+21,Guinea-Bissau ,Africa
+22,Kenya,Africa
+23,Lesotho,Africa
+24,Liberia,Africa
+25,Madagascar ,Africa
+26,Malawi,Africa
+27,Mali ,Africa
+28,Mauritania ,Africa
+29,Mauritius,Africa
+30,Mozambique ,Africa
+31,Namibia,Africa
+32,Niger ,Africa
+33,Nigeria,Africa
+34,Rwanda,Africa
+35,Sao Tome and Principe ,Africa
+36,Senegal ,Africa
+37,Seychelles,Africa
+38,Sierra Leone,Africa
+39,South Africa,Africa
+40,South Sudan,Africa
+41,Swaziland,Africa
+42,Togo ,Africa
+43,Uganda,Africa
+44,United Republic of Tanzania,Africa
+45,Zambia,Africa
+46,Zimbabwe,Africa
+0,Albania,Europe
+1,Andorra,Europe
+2,Armenia,Europe
+3,Austria,Europe
+4,Azerbaijan,Europe
+5,Belarus,Europe
+6,Belgium,Europe
+7,Bosnia and Herzegovina,Europe
+8,Bulgaria,Europe
+9,Croatia,Europe
+10,Cyprus,Europe
+11,Czech Republic,Europe
+12,Denmark,Europe
+13,Estonia,Europe
+14,Finland,Europe
+15,France,Europe
+16,Georgia,Europe
+17,Germany,Europe
+18,Greece,Europe
+19,Hungary,Europe
+20,Iceland,Europe
+21,Ireland,Europe
+22,Israel,Europe
+23,Italy,Europe
+24,Kazakhstan,Europe
+25,Kyrgyzstan,Europe
+26,Latvia,Europe
+27,Lithuania,Europe
+28,Luxembourg,Europe
+29,Malta,Europe
+30,Monaco,Europe
+31,Montenegro,Europe
+32,Netherlands,Europe
+33,Norway,Europe
+34,Poland,Europe
+35,Portugal,Europe
+36,Republic of Moldova,Europe
+37,Romania,Europe
+38,Russian Federation,Europe
+39,San Marino,Europe
+40,Serbia,Europe
+41,Slovakia,Europe
+42,Slovenia,Europe
+43,Spain,Europe
+44,Sweden,Europe
+45,Switzerland,Europe
+46,Tajikistan,Europe
+47,The former Yugoslav Republic of Macedonia,Europe
+48,Turkey,Europe
+49,Turkmenistan,Europe
+50,Ukraine,Europe
+51,United Kingdom of Great Britain and Northern Ireland,Europe
+52,Uzbekistan,Europe
+0,Antigua and Barbuda,Americas
+1,Argentina,Americas
+2,Aruba,Americas
+3,Bahamas,Americas
+4,Barbados,Americas
+5,Belize,Americas
+6,Bermuda,Americas
+7,Bolivarian Republic of Venezuela,Americas
+8,Bolivia,Americas
+9,Brazil,Americas
+10,British Virgin Islands (UK),Americas
+11,Canada,Americas
+12,Cayman Islands,Americas
+13,Chile,Americas
+14,Colombia,Americas
+15,Costa Rica,Americas
+16,Cuba,Americas
+17,Dominica,Americas
+18,Dominican Republic,Americas
+19,Ecuador,Americas
+20,El Salvador,Americas
+21,French Guiana,Americas
+22,Grenada,Americas
+23,Guadeloupe,Americas
+24,Guatemala,Americas
+25,Guyana,Americas
+26,Haiti,Americas
+27,Honduras,Americas
+28,Jamaica,Americas
+29,Martinique,Americas
+30,Mexico,Americas
+31,Montserrat,Americas
+32,Netherland Antilles,Americas
+33,Nicaragua,Americas
+34,Panama,Americas
+35,Paraguay,Americas
+36,Peru,Americas
+37,Puerto Rico,Americas
+38,Saint Kitts and Nevis,Americas
+39,Saint Lucia,Americas
+40,Saint Vincent and the Grenadines,Americas
+41,Suriname,Americas
+42,Trinidad and Tobago,Americas
+43,Turks and Caicos,Americas
+44,United States of America,Americas
+45,Uruguay,Americas
+0,Bangladesh,Southeast Asia
+1,Bhutan,Southeast Asia
+2,Democratic Peopleâ??s Republic of Korea,Southeast Asia
+3,India,Southeast Asia
+4,Indonesia,Southeast Asia
+5,Maldives,Southeast Asia
+6,Myanmar,Southeast Asia
+7,Nepal,Southeast Asia
+8,Sri Lanka ,Southeast Asia
+9,Thailand,Southeast Asia
+10,Timor-Leste,Southeast Asia
+0,Afghanistan,Eastern Mediterranean
+1,Bahrain,Eastern Mediterranean
+2,Djibouti,Eastern Mediterranean
+3,Egypt,Eastern Mediterranean
+4,"Iran, Islamic Republic of",Eastern Mediterranean
+5,Iraq,Eastern Mediterranean
+6,Jordan,Eastern Mediterranean
+7,Kuwait,Eastern Mediterranean
+8,Lebanon,Eastern Mediterranean
+9,Libya,Eastern Mediterranean
+10,Morocco,Eastern Mediterranean
+11,Occupied Palestinian territory,Eastern Mediterranean
+12,Oman,Eastern Mediterranean
+13,Pakistan,Eastern Mediterranean
+14,"Palestine, see Occupied Palestinian territory",Eastern Mediterranean
+15,Qatar,Eastern Mediterranean
+16,Saudi Arabia,Eastern Mediterranean
+17,Somalia,Eastern Mediterranean
+18,Sudan,Eastern Mediterranean
+19,Syrian Arab Republic,Eastern Mediterranean
+20,Tunisia,Eastern Mediterranean
+21,United Arab Emirates,Eastern Mediterranean
+22,Yemen,Eastern Mediterranean
+0,American Samoa,Western Pacific
+1,Australia,Western Pacific
+2,Brunei Darussalam,Western Pacific
+3,Cambodia,Western Pacific
+4,China,Western Pacific
+5,Cook Islands,Western Pacific
+6,Fiji,Western Pacific
+7,French Polynesia (France),Western Pacific
+8,Guam (USA),Western Pacific
+9,Hong Kong (China),Western Pacific
+10,Japan,Western Pacific
+11,Kiribati,Western Pacific
+12,Lao People's Democratic Republic,Western Pacific
+13,Macao (China),Western Pacific
+14,Malaysia,Western Pacific
+15,Marshall Islands,Western Pacific
+16,"Micronesia, Federated States of",Western Pacific
+17,Mongolia,Western Pacific
+18,Nauru,Western Pacific
+19,New Caledonia (France),Western Pacific
+20,New Zealand,Western Pacific
+21,Niue,Western Pacific
+22,"Northern Mariana Islands, Commonwealth of the",Western Pacific
+23,Palau,Western Pacific
+24,Papua New Guinea,Western Pacific
+25,Philippines,Western Pacific
+26,Pitcairn Islands (UK),Western Pacific
+27,Republic of Korea,Western Pacific
+28,Samoa,Western Pacific
+29,Singapore,Western Pacific
+30,Solomon Islands,Western Pacific
+31,Tokelau* (New Zealand),Western Pacific
+32,Tonga,Western Pacific
+33,Tuvalu,Western Pacific
+34,Vanuatu,Western Pacific
+35,Viet Nam,Western Pacific
+36,Wallis and Futuna,Western Pacific
