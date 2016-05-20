@@ -118,3 +118,6 @@ Updating with a commit for week 4 - DJD
 Alex Nocella was here.
 
 This is my first edit. Cindy Fan
+
+I feel like neo in the matrix when I work from the command prompt, especially with my new green on black theme
+Omar
