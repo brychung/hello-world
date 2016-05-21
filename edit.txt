@@ -159,3 +159,6 @@ Tim adding some stuff to the edit file
 
 This is my second commit, just like all sequels it is not as good as the first one.
 Omar
+
+Confucius say, 2 wrongs not make right, but 2 rights make U-turn
+Jen2
