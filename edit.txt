@@ -1,4 +1,6 @@
-This is my first change. AHHH.
+This is my first change. AHHHHHHHH!
+
+It's sunny in SF at the moment.-Chabot
 
 here in the playground
 
@@ -62,7 +64,7 @@ The Republican governor, known for his controversial statements, was speaking on
 
 "We've got to go 20 years, we've got to keep them here until they die," he added. "If you want my honest opinion, we should give them an injection of the stuff they sell."
 
-Carlee here with my first edit/comment: what a terrible thing for a politician to say!  Boo!
+Carlee here with my first edit/comment: and a second. From the command line.
 
 mkdir Desktop/demo
 cd Desktop/demo
@@ -121,5 +123,16 @@ This is my first edit. Cindy Fan
 
 I feel like neo in the matrix when I work from the command prompt, especially with my new green on black theme
 Omar
+
+POEM (by Natallia Spell): 
+Connected to you by invisible threads-
+I can sense your every move,
+
+… to be continued in two days.
+
+Success! Hopefully...--Adam Reilly
+Testing this out... yl
+Tim adding some stuff to the edit file
+
 This is my second commit, just like all sequels it is not as good as the first one.
 Omar
