@@ -1,4 +1,29 @@
-This is my first change. AHHH.
+HI! I'M MR MEESEEKS! LOOK AT ME!
+
+Cause he roped me into this!
+
+Existence is pain to a meeseeks Jerry, and we will do anything to alleviate that pain.
+
+Dont look at me! that guy over there...roped ME into this
+
+I JUST WANNA DIE!
+
+I'm a bit of a stickler Meeseeks, what about your short game?
+
+Meeseeks don't usually have to exist for this long. It's gettin' weeeiiird...
+
+Meeseeks were not born into this world fumbling for meaning, Jerry!
+
+"Is he keeping his shoulders square?" "Oooooooh he's tryin'!"
+
+Oh, we're welllll past that, JERRY!
+
+Ooohhh can do.
+
+
+This is my first change. AHHHHHHHH!
+
+It's sunny in SF at the moment.-Chabot
 
 here in the playground
 
@@ -62,7 +87,7 @@ The Republican governor, known for his controversial statements, was speaking on
 
 "We've got to go 20 years, we've got to keep them here until they die," he added. "If you want my honest opinion, we should give them an injection of the stuff they sell."
 
-Carlee here with my first edit/comment: what a terrible thing for a politician to say!  Boo!
+Carlee here with my first edit/comment: and a second. From the command line.
 
 mkdir Desktop/demo
 cd Desktop/demo
@@ -129,5 +154,48 @@ I can sense your every move,
 … to be continued in two days.
 
 Success! Hopefully...--Adam Reilly
+<<<<<<< HEAD
 Testing this out... yl
 2nd try... yl
+=======
+Testing this out... yl
+Tim adding some stuff to the edit file
+
+This is my second commit, just like all sequels it is not as good as the first one.
+Omar
+
+Confucius say, 2 wrongs not make right, but 2 rights make U-turn
+Jen2
+N.Spell-POEM(continued as promised)
+…Touching your face with my hand  -
+I can feel your every thought.
+Being with you in the coldest day 
+keeps me safe and warm:
+There, in your arms
+Melting like a wax,
+Feeling all in love, as never before…
+Here, are these words
+coming onto the surface of my mind,
+reaching out for you.
+You are invited into my dreams,
+in a place with no time and space,
+without all constraints of my visible world.
+You will be like a kiss of a wind on my skin:
+Always with me – wherever I go.
+Fading away into the thin air,
+You can be my mirage in a desert heat:
+peaceful mirror-surfaced mountain lake
+Or a furious forest fire-
+Whatever you are – loved and admired..
+Changing like a weather on a derelict planet,
+… You will never fail to surprise me!
+Everlasting, evanescent and illusive…
+Here, in my heart,
+ With my every sigh -
+Opening this door into the world-
+we will never be apart any more ,
+Feeling all alive – together- 
+ …as never before…!
+
+Comment #1 from Owen Witek
+>>>>>>> d755432cb0bb1b65fb6e718a81e5c00119de4fb7
