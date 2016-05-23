@@ -38,6 +38,12 @@ I actually got one to work. Maybe I can get the second to work as well! I'm not 
 Said lack of confidence appears to be justified. And it is now being reinforced...
 It appears I've edited the file structure of the repository on my computer which is now affecting my ability to update small changes to edit.txt
 
+
+
+=======
+Is it possible to edit this directly???
+>>>>>>> 9dda0cd9b076c1016f60e84b597b94ab16b79e8a
+
 This is my first change. AHHHHHHHH!
 
 It's sunny in SF at the moment.-Chabot
