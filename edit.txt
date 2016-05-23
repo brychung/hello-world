@@ -119,12 +119,16 @@ git clone git@github.com:MIDS-INFO-W18/github-playground.git
 
 # NOW AT TIME 2
 
+
 cd ..lion and $82.4 billion, but some market watchers are unsure if Apple will top the record 74.5 million iPhones it sold in the year-ago quarter, due to perceived lower iPhone 6s sales.
 
 iPhone 6s sales concerns might be more evident in Q2 2016, however, as Apple's newest products and services, including the Apple Watch, Apple Music and the new Apple TV, coupled with the busy holiday shopping season, fuel projections that Apple will again report the most profitable holiday quarter in not only the iPhone maker's nearly 40-year history, but of any company ever.
 
+
+
 Apple's guidance is between $75.5 billion and $77.5 billion in quarterly revenue, while the consensus among professional analysts is around $76.5 billion.
 
+I hope ^ was from a few months ago - E Chabot
 
 For those of you using Terminal on a Mac, Silver Aerogel is the setting you
 
