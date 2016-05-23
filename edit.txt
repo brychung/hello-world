@@ -36,6 +36,7 @@ Ooohhh can do.
 
 I actually got one to work. Maybe I can get the second to work as well! I'm not confident at this point.
 Said lack of confidence appears to be justified. And it is now being reinforced...
+It appears I've edited the file structure of the repository on my computer which is now affecting my ability to update small changes to edit.txt
 
 This is my first change. AHHHHHHHH!
 
