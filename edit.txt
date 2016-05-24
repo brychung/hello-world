@@ -1,4 +1,6 @@
-﻿Am I doing this successfully now?
+I think its working.
+
+Am I doing this successfully now?
 
 I'M MR MEESEEKS! LOOK AT ME!
 
@@ -468,4 +470,4 @@ Jen2 having more trouble with her 2nd commit...I hope this works...this might be
 >>>>>>> 876286d2f22f2d8937955c32ee8287868581b5cb
 
 
-Andrew again...comment #2
+Andrew again...comment #2adding my last statement
