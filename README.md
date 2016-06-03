@@ -5,10 +5,10 @@ This repository is the repository for all of assignments, all changes and assign
 ## Initial Setup
 
 ``` sh
-git clone git@github.com:MIDS-INFO-W18/assignment-upstream.git
-cd assignment-upstream
+git clone git@github.com:MIDS-INFO-W18/assignment-upstream-SS.git
+cd assignment-upstream-SS
 git remote remove origin
-git remote add upstream git@github.com:MIDS-INFO-W18/assignment-upstream.git
+git remote add upstream git@github.com:MIDS-INFO-W18/assignment-upstream-SS.git
 git remote add origin <ENTER YOUR REPOSITORY SSH URL HERE>
 ```
 
