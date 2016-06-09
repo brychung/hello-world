@@ -1,0 +1,26 @@
+Aaron's first comment here! - 1/20/2016
+
+This is me(Maya), editing your file!
+This is me again, this time from the command line.
+
+Hi Everyone. This is Ankith
+If I'm understanding the assignment correctly, I'm supposed to create this file, since there is not an existing version
+here in the playground
+
+It's 33 degrees Fahrenheit in New York today.
+
+Editing the file again since my last check in is missing!
+
+The weather today in Mountain View, CA is 49 degrees and sunny. Yay!
+
+The goal for today is to put as many "force push" memes on the wall as possible.  - Jay
+
+Don’t ask me what you know is true. Don't have to tell me...
+
+edit edit ribbit edit  - MV
+
+This is Scott and I totally just edited this. I initially tried to fork, then clone/edit/commit/push but then I wasn't sure how to get from my fork back to the live location. This is attempt #2 after having cloned the playground directly without forking. Seriously, no forking around. - 1/21/2016
+
+OK OK .. I am giving it a shot from Milan Italy. -1°C i.e 30 Fahrenheit .. No forking here
+
+Wohoo! hope I got this right -EY
