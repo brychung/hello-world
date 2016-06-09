@@ -1,0 +1,16 @@
+GitHub Exercise
+
+This is a simple exercise designed to give you practice using GitHub. Additionally the following questions are meant to stimulate you to think about how innovation arises and propagates. Type your answers and commit them to your repository as outlined in the “Completing Your First Exercise With Git Reading Card” document. Be ready to share these answers <briefly> in the discussion section.
+
+* Bill Gates or Gary Kidall? Thomas Edison or Nicola Tesla? Rosalind Franklin or Watson and Crick? Steve(Jobs or Wozniak)?
+
+Answer?
+- Gates (I don't know much about Kildall).
+- Tesla (Tesla Coil anyone?)
+- Franklin (I like her quote: "Science and everyday life cannot and should not be separated.")
+- Jobs (I liked the portrayal of his pursuit of quality)
+
+* How might modern data science be disruptive to your industry? 
+
+Answer?
+I work in the industry of distribution of electronic components where demand and supply chains mainly deal in part number data, quantities, and where these are sourced and shipped. One way data science would disrupt this industry would be in mapping forecast data and what companies may expect changes to take place in the current market for tomorrow. 
