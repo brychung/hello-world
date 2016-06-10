@@ -1,11 +1,11 @@
 <<<<<<< HEAD
-﻿==================== BRYCHUNG COMMIT ONCE AGAIN ====================
+
+
+==================== BRYCHUNG COMMIT ONCE AGAIN =====================
 
 =====                            hi                             =====
 
 ==================== BRYCHUNG COMMIT ONCE AGAIN =====================
-
-
 
 
 I think its working.
