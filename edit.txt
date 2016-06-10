@@ -1490,4 +1490,5 @@ to get everybody working, amirite?
 ================ ANOTHER BRYCHUNG COMMIT 06/09/16 ================
 >>>>>>> 99a0b819f69cc995b2de37d1023ba9f7e5d6ef11
 f i r s t   c o m m i t   -   C h r i s t i a n   C h o i  
- 
+ Commit1: Katerina Harnetiaux
+  “Fall down seven times, Stand up eight times.” -Unknown
