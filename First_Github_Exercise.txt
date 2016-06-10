@@ -1,0 +1,15 @@
+GitHub Exercise
+
+This is a simple exercise designed to give you practice using GitHub. Additionally the following questions are meant to stimulate you to think about how innovation arises and propagates. Type your answers and commit them to your repository as outlined in the “Completing Your First Exercise With Git Reading Card” document. Be ready to share these answers <briefly> in the discussion section.
+
+* Bill Gates or Gary Kidall? Thomas Edison or Nicola Tesla? Rosalind Franklin or Watson and Crick? Steve(Jobs or Wozniak)?
+
+Answer?
+
+Although all of these people were incredible and changed the entire fabric of their respective fields, Bill Gates, Thomas Edison, Rosalind Franklin, and Steve Jobs were incomparable to the people opposite them. They not only innovated, but they sold what they innovated and told a story. They made a space for themselves and I really admire that. 
+
+* How might modern data science be disruptive to your industry? 
+
+Answer?
+
+Although I have no clue what I want to do in the future, I’ve always been interested in the journalistic components of data. Data journalism itself has changed the way people are ingesting content and has made previously difficult concepts much more accessible to the populace. This year, an unprecedented amount of data content won Pulitzer prizes. 
