@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-
-
-==================== BRYCHUNG COMMIT ONCE AGAIN =====================
-
-=====                            hi                             =====
-
-==================== BRYCHUNG COMMIT ONCE AGAIN =====================
-
-
 I think its working.
 
 Am I doing this successfully now?
@@ -980,6 +970,10 @@ Andrew again...comment #2adding my last statement
 
  Hello this is Vaibhav Diwan's first commit
 Second Commit from Owen Witek
-T h i s   i s   m y   f i r s t   c o m m i t .   -   P h o e b e   L i a n g  
+T h i s   i s   m y   f i r s t   c o m m i t .   -   P h o e b e   L i a n g 
+ 
  
 >>>>>>> 9bd1959188838a1cd0e03da351a44a592d10db72
+
+
+BRYCHUNG COMMIT
