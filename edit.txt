@@ -1466,6 +1466,11 @@ Andrew again...comment #2adding my last statement
 
  Hello this is Vaibhav Diwan's first commit
 Second Commit from Owen Witek
-T h i s   i s   m y   f i r s t   c o m m i t .   -   P h o e b e   L i a n g  
+T h i s   i s   m y   f i r s t   c o m m i t .   -   P h o e b e   L i a n g 
+ 
  Hi, I'm Manish and I am a student at Cal. Go bears
 >>>>>>> e7bd59e742135c3854ad8879c5c1007fc0371bbc
+
+==================== ANOTHER BRYCHUNG COMMIT ====================
+====================         06/09/16        ====================
+==================== ANOTHER BRYCHUNG COMMIT ====================
