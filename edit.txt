@@ -1475,4 +1475,5 @@ T h i s   i s   m y   f i r s t   c o m m i t .   -   P h o e b e   L i a n g 
 ====================         06/09/16        ====================
 ==================== ANOTHER BRYCHUNG COMMIT ====================
 
-This is Joey’s commit. Hi. 06/09/16
+This is Joey’s commit. Hi. 06/09/16f i r s t   c o m m i t   -   C h r i s t i a n   C h o i  
+ 
