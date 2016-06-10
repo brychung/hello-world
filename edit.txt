@@ -1476,3 +1476,11 @@ T h i s   i s   m y   f i r s t   c o m m i t .   -   P h o e b e   L i a n g 
 ==================== ANOTHER BRYCHUNG COMMIT ====================
 
 This is Joey’s commit. Hi. 06/09/16
+
+
+================ ANOTHER BRYCHUNG COMMIT 06/09/16 ================
+
+Let's not point any fingers here guys, let's just figure out how
+to get everybody working, amirite?
+
+================ ANOTHER BRYCHUNG COMMIT 06/09/16 ================
