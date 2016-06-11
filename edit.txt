@@ -1508,3 +1508,4 @@ A new line? Jenny. Yeah! Shangjun Jiang
 >>>>>>> b544aa162b66ec86f55c2e85350e49fd684db325
 
 Matt Joseph’s first commit - 6/11/16
+Duke Nguyen's 1st Commit 6/11
