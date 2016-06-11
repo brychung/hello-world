@@ -1496,4 +1496,4 @@ Commit1: Katerina Harnetiaux
   “Fall down seven times, Stand up eight times.” -Unknown
 This is maria's commit, is it OK? I'm not sure.
 Maria again, just test.
-Can I edit this file in GitHub homepage? or should I make clone and edit the file in my conputer and push? 
+Can I edit this file in GitHub homepage? or should I make clone and edit the file in my conputer and push? New commit. - Joey Nguyen 06/11/16
