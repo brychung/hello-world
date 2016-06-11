@@ -1466,7 +1466,9 @@ Andrew again...comment #2adding my last statement
 
  Hello this is Vaibhav Diwan's first commit
 Second Commit from Owen Witek
-This is my first commit. - Phoebe Liang
+___________________________________________________
+This is my first commit. - Phoebe Liang 6/8
+___________________________________________________
 
 Hi, I'm Manish and I am a student at Cal. Go bears
 >>>>>>> e7bd59e742135c3854ad8879c5c1007fc0371bbc
@@ -1509,3 +1511,7 @@ A new line? Jenny. Yeah! Shangjun Jiang
 
 Matt Joseph’s first commit - 6/11/16
 Duke Nguyen's 1st Commit 6/11
+
+___________________________________________________
+This is my second commit. - Phoebe Liang  6/11
+___________________________________________________
