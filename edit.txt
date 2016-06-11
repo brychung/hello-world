@@ -1496,5 +1496,9 @@ Commit1: Katerina Harnetiaux
   “Fall down seven times, Stand up eight times.” -Unknown
 This is maria's commit, is it OK? I'm not sure.
 Maria again, just test.
+<<<<<<< HEAD
 Can I edit this file in GitHub homepage? or should I make clone and edit the file in my conputer and push? 
 New commit. - Joey Nguyen 06/11/16
+=======
+Can I edit this file in GitHub homepage? or should I make clone and edit the file in my conputer and push? Hellow everyone, my name is Jenny Jiang. This is my first time learning Python. I'm very excited about it! Hope we could become friends! I'm at Berkeley now.
+>>>>>>> 45bde7d0ba0096b7bb39346cb4cc3a66ff07b250
