@@ -1568,3 +1568,6 @@ ___________________________________________________
 Hello World from Xiao
 H i   M y   n a m e   i s   P a g a a l u c k   O o n s i r i   a n d   t h i s   i s   m y   f i r s t   c o m m i t !   6 / 1 1 / 1 6  
  Follow me on Twitter @mksingh97 - Commit #2
+
+Commit2: Katerina Harnetiaux
+   “Happiness is the only thing we can give without having.”
