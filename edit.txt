@@ -1,3 +1,53 @@
+########################################################################
+########################################################################
+
+ "Educators, generals, dieticians, psychologists, and parents
+  program. Armies, students, and some societies are programmed.
+  An assault on large problems employs a succession of programs,
+  most of which spring into existence en route. These programs
+  are rife with issues that appear to be particular to the
+  problem at hand. To appreciate programming as an intellectual
+  activity in its own right you must turn to computer programming;
+  you must read and write computer programs -- many of them.
+  It doesn't matter much what the programs are about or what
+  applications they serve. What does matter is how well they perform
+  and how smoothly they fit with other programs in the creation of
+  still greater programs. The programmer must seek perfection of
+  part and adequacy of collection.
+    Our traffic with the subject matter of this book involves us
+  with three foci of phenomena: the human mind, collections of
+  computer programs, and the computer. Every computer program is a
+  model, hatched in the mind, of a real or mental process. These
+  processes, arising from human experience and thought, are huge
+  in number, intricate in detail, and at any time only partially
+  understood. They are modeled to our permanent satisfaction rarely
+  by our computer programs. Thus even though our programs are
+  carefully handcrafted discrete collections of symbols, mosaics
+  of interlocking functions, they continually evolve: we change
+  them as our perception of the model deepens, enlarges, generalizes
+  until the model ultimately attains a metastable place within
+  still another model with which we struggle. The source of
+  exhileration associated with computer programming is the
+  continual unfolding within the mind and on the computer of
+  mechanisms expressed as programs and the explosion of perception
+  they generate. If art interprets our dreams, the computer executes
+  them in the guise of programs!"
+  -- Abelson & Sussman, SICP 
+
+ "Mathematics presented as a closed, linearly ordered,
+  system of truths without reference to origin and purpose
+  has its charm and satisfies a philosophical need. But the
+  attitude of introverted science is unsuitable for students
+  who seek intellectual independence rather than indoctrination;
+  disregard for applications and intuition leads to isolation
+  and atrophy of  mathematics. It seems extremely important
+  that students and instructors  should be protected from smug
+  purism."
+  -- Richard Courant, Introduction to Calculus and Analysis
+
+########################################################################
+########################################################################
+
 <<<<<<< HEAD
 I think its working.
 
