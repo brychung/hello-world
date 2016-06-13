@@ -217,7 +217,7 @@ This is my first edit. Cindy Fan
 I feel like neo in the matrix when I work from the command prompt, especially with my new green on black theme
 Omar
 
-POEM (by Natallia Spell): 
+POEM (by Natallia Spell):
 Connected to you by invisible threads-
 I can sense your every move,
 
@@ -409,7 +409,7 @@ Omar
 I'm fairly sure my first two commits we're in cloned copies of this document. That was dumb of me. ...And still trying.
 # fail on fail on fail
 
-POEM (by Natallia Spell): 
+POEM (by Natallia Spell):
 Connected to you by invisible threads-
 I can sense your every move,
 
@@ -431,7 +431,7 @@ Jen2
 N.Spell-POEM(continued as promised)
 …Touching your face with my hand  -
 I can feel your every thought.
-Being with you in the coldest day 
+Being with you in the coldest day
 keeps me safe and warm:
 There, in your arms
 Melting like a wax,
@@ -456,7 +456,7 @@ Here, in my heart,
  With my every sigh -
 Opening this door into the world-
 we will never be apart any more ,
-Feeling all alive – together- 
+Feeling all alive – together-
  …as never before…!
 
 Comment #1 from Owen Witek
@@ -490,9 +490,9 @@ Namespaces are one honking great idea -- let's do more of those!
 — HB
 
 Tim figuring out the git pull does what I want but git fetch doesn't. Good to
-know. 
+know.
 
-This is Andrew...comment #1 
+This is Andrew...comment #1
 
 Andrew again...comment #2
 =======
@@ -523,9 +523,9 @@ Namespaces are one honking great idea -- let's do more of those!
 — HB
 
 Tim figuring out the git pull does what I want but git fetch doesn't. Good to
-know. 
+know.
 
-This is Andrew...comment #1 
+This is Andrew...comment #1
 >>>>>>> 9dda0cd9b076c1016f60e84b597b94ab16b79e8a
 
 Jen2 having more trouble with her 2nd commit...I hope this works...this might be my 80th commit
@@ -534,7 +534,7 @@ Jen2 having more trouble with her 2nd commit...I hope this works...this might be
 
 Andrew again...comment #2adding my last statement
 
- 
+
 
 
 
@@ -702,7 +702,7 @@ This is my first edit. Cindy Fan
 I feel like neo in the matrix when I work from the command prompt, especially with my new green on black theme
 Omar
 
-POEM (by Natallia Spell): 
+POEM (by Natallia Spell):
 Connected to you by invisible threads-
 I can sense your every move,
 
@@ -897,7 +897,7 @@ Omar
 I'm fairly sure my first two commits we're in cloned copies of this document. That was dumb of me. ...And still trying.
 # fail on fail on fail
 
-POEM (by Natallia Spell): 
+POEM (by Natallia Spell):
 Connected to you by invisible threads-
 I can sense your every move,
 
@@ -919,7 +919,7 @@ Jen2
 N.Spell-POEM(continued as promised)
 …Touching your face with my hand  -
 I can feel your every thought.
-Being with you in the coldest day 
+Being with you in the coldest day
 keeps me safe and warm:
 There, in your arms
 Melting like a wax,
@@ -944,7 +944,7 @@ Here, in my heart,
  With my every sigh -
 Opening this door into the world-
 we will never be apart any more ,
-Feeling all alive – together- 
+Feeling all alive – together-
  …as never before…!
 
 Comment #1 from Owen Witek
@@ -978,9 +978,9 @@ Namespaces are one honking great idea -- let's do more of those!
 — HB
 
 Tim figuring out the git pull does what I want but git fetch doesn't. Good to
-know. 
+know.
 
-This is Andrew...comment #1 
+This is Andrew...comment #1
 
 Andrew again...comment #2
 =======
@@ -1011,9 +1011,9 @@ Namespaces are one honking great idea -- let's do more of those!
 — HB
 
 Tim figuring out the git pull does what I want but git fetch doesn't. Good to
-know. 
+know.
 
-This is Andrew...comment #1 
+This is Andrew...comment #1
 >>>>>>> 9dda0cd9b076c1016f60e84b597b94ab16b79e8a
 
 Jen2 having more trouble with her 2nd commit...I hope this works...this might be my 80th commit
@@ -1022,7 +1022,7 @@ Jen2 having more trouble with her 2nd commit...I hope this works...this might be
 
 Andrew again...comment #2adding my last statement
 
- 
+
 
 
 
@@ -1197,7 +1197,7 @@ This is my first edit. Cindy Fan
 I feel like neo in the matrix when I work from the command prompt, especially with my new green on black theme
 Omar
 
-POEM (by Natallia Spell): 
+POEM (by Natallia Spell):
 Connected to you by invisible threads-
 I can sense your every move,
 
@@ -1254,7 +1254,9 @@ Ooohhh can do.
 I actually got one to work. Maybe I can get the second to work as well! I'm not confident at this point.
 Said lack of confidence appears to be justified. And it is now being reinforced...
 It appears I've edited the file structure of the repository on my computer which is now affecting my ability to update small changes to edit.txt
-
+====
+:D I am editing this from the middle of nowhere tbh
+====
 
 =======
 Is it possible to edit this directly???
@@ -1392,7 +1394,7 @@ Omar
 I'm fairly sure my first two commits we're in cloned copies of this document. That was dumb of me. ...And still trying.
 # fail on fail on fail
 
-POEM (by Natallia Spell): 
+POEM (by Natallia Spell):
 Connected to you by invisible threads-
 I can sense your every move,
 
@@ -1414,7 +1416,7 @@ Jen2
 N.Spell-POEM(continued as promised)
 …Touching your face with my hand  -
 I can feel your every thought.
-Being with you in the coldest day 
+Being with you in the coldest day
 keeps me safe and warm:
 There, in your arms
 Melting like a wax,
@@ -1439,7 +1441,7 @@ Here, in my heart,
  With my every sigh -
 Opening this door into the world-
 we will never be apart any more ,
-Feeling all alive – together- 
+Feeling all alive – together-
  …as never before…!
 
 Comment #1 from Owen Witek
@@ -1473,9 +1475,9 @@ Namespaces are one honking great idea -- let's do more of those!
 — HB
 
 Tim figuring out the git pull does what I want but git fetch doesn't. Good to
-know. 
+know.
 
-This is Andrew...comment #1 
+This is Andrew...comment #1
 
 Andrew again...comment #2
 =======
@@ -1506,9 +1508,9 @@ Namespaces are one honking great idea -- let's do more of those!
 — HB
 
 Tim figuring out the git pull does what I want but git fetch doesn't. Good to
-know. 
+know.
 
-This is Andrew...comment #1 
+This is Andrew...comment #1
 >>>>>>> 9dda0cd9b076c1016f60e84b597b94ab16b79e8a
 
 Jen2 having more trouble with her 2nd commit...I hope this works...this might be my 80th commit
@@ -1517,7 +1519,7 @@ Jen2 having more trouble with her 2nd commit...I hope this works...this might be
 
 Andrew again...comment #2adding my last statement
 
- 
+
 
 
 
@@ -1559,7 +1561,7 @@ Commit1: Katerina Harnetiaux
 This is maria's commit, is it OK? I'm not sure.
 Maria again, just test.
 <<<<<<< HEAD
-Can I edit this file in GitHub homepage? or should I make clone and edit the file in my conputer and push? 
+Can I edit this file in GitHub homepage? or should I make clone and edit the file in my conputer and push?
 New commit. - Joey Nguyen 06/11/16
 =======
 Can I edit this file in GitHub homepage? or should I make clone and edit the file in my conputer and push? Hellow everyone, my name is Jenny Jiang. This is my first time learning Python. I'm very excited about it! Hope we could become friends! I'm at Berkeley now.
@@ -3197,9 +3199,9 @@ Hello, this is Josh Park’s first comment 6/12 @4:48pm
 This is Mamoru Tatematsu. Third Try.
 Go Bears
 ----------------------
-s e c o n d   c o m m i t   -   C h r i s t i a n   C h o i 
- 
- 
+s e c o n d   c o m m i t   -   C h r i s t i a n   C h o i
+
+
 
 ----------------------
 This is Mamoru Tatematsu. 4th Try.
@@ -3247,10 +3249,10 @@ Temperature: 59.0 F (15.0 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 1.
 The local system date and time is Mon Jun 13 05:05:52 PDT 2016.
@@ -3262,10 +3264,10 @@ Temperature: 59.0 F (15.0 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 2.
 The local system date and time is Mon Jun 13 05:21:00 PDT 2016.
@@ -3277,10 +3279,10 @@ Temperature: 59.0 F (15.0 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 1.
 The local system date and time is Mon Jun 13 05:28:31 PDT 2016.
@@ -3292,10 +3294,10 @@ Temperature: 59.0 F (15.0 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 1.
 The local system date and time is Mon Jun 13 05:30:09 PDT 2016.
@@ -3307,10 +3309,10 @@ Temperature: 59.0 F (15.0 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 1.
 The local system date and time is Mon Jun 13 05:32:36 PDT 2016.
@@ -3322,10 +3324,10 @@ Temperature: 59.0 F (15.0 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 2.
 The local system date and time is Mon Jun 13 05:42:44 PDT 2016.
@@ -3337,10 +3339,10 @@ Temperature: 59.0 F (15.0 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 1.
 The local system date and time is Mon Jun 13 05:50:53 PDT 2016.
@@ -3352,10 +3354,10 @@ Temperature: 59.0 F (15.0 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 2.
 The local system date and time is Mon Jun 13 06:01:02 PDT 2016.
@@ -3367,10 +3369,10 @@ Temperature: 59.0 F (15.0 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 3.
 The local system date and time is Mon Jun 13 06:11:09 PDT 2016.
@@ -3382,10 +3384,10 @@ Temperature: 59.0 F (15.0 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 4.
 The local system date and time is Mon Jun 13 06:21:22 PDT 2016.
@@ -3397,10 +3399,10 @@ Temperature: 59.0 F (15.0 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 5.
 The local system date and time is Mon Jun 13 06:31:29 PDT 2016.
@@ -3412,10 +3414,10 @@ Temperature: 59.0 F (15.0 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 6.
 The local system date and time is Mon Jun 13 06:41:37 PDT 2016.
@@ -3427,10 +3429,10 @@ Temperature: 59.0 F (15.0 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 7.
 The local system date and time is Mon Jun 13 06:51:46 PDT 2016.
@@ -3442,10 +3444,10 @@ Temperature: 59.0 F (15.0 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 8.
 The local system date and time is Mon Jun 13 07:01:56 PDT 2016.
@@ -3459,10 +3461,10 @@ editing ... this ...file ...
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 9.
 The local system date and time is Mon Jun 13 07:12:05 PDT 2016.
@@ -3474,10 +3476,10 @@ Temperature: 59.0 F (15.0 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 10.
 The local system date and time is Mon Jun 13 07:22:13 PDT 2016.
@@ -3489,10 +3491,10 @@ Temperature: 59.0 F (15.0 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 11.
 The local system date and time is Mon Jun 13 07:32:20 PDT 2016.
@@ -3504,10 +3506,10 @@ Temperature: 59.0 F (15.0 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 12.
 The local system date and time is Mon Jun 13 07:42:27 PDT 2016.
@@ -3519,10 +3521,10 @@ Temperature: 59.0 F (15.0 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 13.
 The local system date and time is Mon Jun 13 07:52:34 PDT 2016.
@@ -3534,10 +3536,10 @@ Temperature: 59.0 F (15.0 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 14.
 The local system date and time is Mon Jun 13 08:02:41 PDT 2016.
@@ -3549,10 +3551,10 @@ Temperature: 59.0 F (15.0 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 15.
 The local system date and time is Mon Jun 13 08:12:50 PDT 2016.
@@ -3564,10 +3566,10 @@ Temperature: 59.0 F (15.0 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 16.
 The local system date and time is Mon Jun 13 08:23:00 PDT 2016.
@@ -3579,10 +3581,10 @@ Temperature: 59.0 F (15.0 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 17.
 The local system date and time is Mon Jun 13 08:33:07 PDT 2016.
@@ -3594,10 +3596,10 @@ Temperature: 59.0 F (15.0 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 18.
 The local system date and time is Mon Jun 13 08:43:14 PDT 2016.
@@ -3609,10 +3611,10 @@ Temperature: 59.0 F (15.0 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 19.
 The local system date and time is Mon Jun 13 08:53:22 PDT 2016.
@@ -3624,10 +3626,10 @@ Temperature: 59.0 F (15.0 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 20.
 The local system date and time is Mon Jun 13 09:03:29 PDT 2016.
@@ -3639,10 +3641,10 @@ Temperature: 59.0 F (15.0 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 21.
 The local system date and time is Mon Jun 13 09:13:36 PDT 2016.
@@ -3654,10 +3656,10 @@ Temperature: 59.0 F (15.0 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 22.
 The local system date and time is Mon Jun 13 09:23:43 PDT 2016.
@@ -3669,10 +3671,10 @@ Temperature: 60.1 F (15.6 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 23.
 The local system date and time is Mon Jun 13 09:33:51 PDT 2016.
@@ -3684,10 +3686,10 @@ Temperature: 60.1 F (15.6 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 24.
 The local system date and time is Mon Jun 13 09:43:59 PDT 2016.
@@ -3699,10 +3701,10 @@ Temperature: 61.0 F (16.1 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 25.
 The local system date and time is Mon Jun 13 09:54:10 PDT 2016.
@@ -3714,10 +3716,10 @@ Temperature: 61.0 F (16.1 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 26.
 The local system date and time is Mon Jun 13 10:04:18 PDT 2016.
@@ -3729,10 +3731,10 @@ Temperature: 62.1 F (16.7 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 27.
 The local system date and time is Mon Jun 13 10:14:24 PDT 2016.
@@ -3745,10 +3747,10 @@ Temperature: 62.1 F (16.7 C)
 Hiya class
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 28.
 The local system date and time is Mon Jun 13 10:24:32 PDT 2016.
@@ -3760,10 +3762,10 @@ Temperature: 62.1 F (16.7 C)
 
 
 Hi! I'm the output from a bash script that uses
-a while loop and the GitHub API to periodically 
+a while loop and the GitHub API to periodically
 edit files with the current time and date along
-with a weather report before pushing changes to a 
-remote repo.  
+with a weather report before pushing changes to a
+remote repo.
 
 This is loop number 29.
 The local system date and time is Mon Jun 13 10:34:39 PDT 2016.
