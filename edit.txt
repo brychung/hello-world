@@ -1,4 +1,4 @@
-﻿########################################################################
+########################################################################
 ########################################################################
 
  "Educators, generals, dieticians, psychologists, and parents
@@ -1613,3 +1613,7 @@ Simple is really better than complex
 
 ######
 Hello, this is Josh Park’s first comment 6/12 @4:48pm
+
+
+ChulMin Park’s commit2:
+This is my second commit
