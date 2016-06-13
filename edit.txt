@@ -1571,3 +1571,6 @@ H i   M y   n a m e   i s   P a g a a l u c k   O o n s i r i   a n d   t h i s 
 
 Commit2: Katerina Harnetiaux
    “Happiness is the only thing we can give without having.”
+
+ChulMin Park’s commit1:
+Simple is really better than complex
