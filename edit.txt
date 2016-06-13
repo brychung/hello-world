@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< DHEAD
 I think its working.
 
 Am I doing this successfully now?
@@ -36,7 +34,6 @@ here in the playground
 
 It's 33 degrees Fahrenheit in New York today.
 
-<<<<<<<<<HEAD
 Aaron's first comment here! - 1/20/2016
 
 This is me(Maya), editing your file!
@@ -278,7 +275,6 @@ It appears I've edited the file structure of the repository on my computer which
 
 =======
 Is it possible to edit this directly???
->>>>>>> 9dda0cd9b076c1016f60e84b597b94ab16b79e8a
 
 This is my first change. AHHHHHHHH!
 
@@ -288,7 +284,6 @@ here in the playground
 
 It's 33 degrees Fahrenheit in New York today.
 
-<<<<<<<<<HEAD
 Aaron's first comment here! - 1/20/2016
 
 This is me(Maya), editing your file!
@@ -416,7 +411,6 @@ I can sense your every move,
 … to be continued in two days.
 
 Success! Hopefully...--Adam Reilly
-<<<<<<< HEAD
 Testing this out... yl
 2nd try... yl
 =======
@@ -460,9 +454,7 @@ Feeling all alive – together-
  …as never before…!
 
 Comment #1 from Owen Witek
->>>>>>> d755432cb0bb1b65fb6e718a81e5c00119de4fb7
 
-<<<<<<< HEAD
 All CA voters remember that tomorrow is your last day to register! -Adam Reilly
 
 From Typing the command “import this” into Python:
@@ -526,10 +518,8 @@ Tim figuring out the git pull does what I want but git fetch doesn't. Good to
 know.
 
 This is Andrew...comment #1
->>>>>>> 9dda0cd9b076c1016f60e84b597b94ab16b79e8a
 
 Jen2 having more trouble with her 2nd commit...I hope this works...this might be my 80th commit
->>>>>>> 876286d2f22f2d8937955c32ee8287868581b5cb
 
 
 Andrew again...comment #2adding my last statement
@@ -580,7 +570,7 @@ here in the playground
 
 It's 33 degrees Fahrenheit in New York today.
 
-<<<<<<<<<HEAD
+
 Aaron's first comment here! - 1/20/2016
 
 This is me(Maya), editing your file!
@@ -763,7 +753,6 @@ It appears I've edited the file structure of the repository on my computer which
 
 =======
 Is it possible to edit this directly???
->>>>>>> 9dda0cd9b076c1016f60e84b597b94ab16b79e8a
 
 This is my first change. AHHHHHHHH!
 
@@ -776,7 +765,6 @@ It's 33 degrees Fahrenheit in New York today.
 Hey this is Chris Llop
 Chris Commit 2
 
-<<<<<<<<<HEAD
 Aaron's first comment here! - 1/20/2016
 
 This is me(Maya), editing your file!
@@ -948,9 +936,7 @@ Feeling all alive – together-
  …as never before…!
 
 Comment #1 from Owen Witek
->>>>>>> d755432cb0bb1b65fb6e718a81e5c00119de4fb7
 
-<<<<<<< HEAD
 All CA voters remember that tomorrow is your last day to register! -Adam Reilly
 
 From Typing the command “import this” into Python:
@@ -1014,10 +1000,8 @@ Tim figuring out the git pull does what I want but git fetch doesn't. Good to
 know.
 
 This is Andrew...comment #1
->>>>>>> 9dda0cd9b076c1016f60e84b597b94ab16b79e8a
 
 Jen2 having more trouble with her 2nd commit...I hope this works...this might be my 80th commit
->>>>>>> 876286d2f22f2d8937955c32ee8287868581b5cb
 
 
 Andrew again...comment #2adding my last statement
@@ -1034,7 +1018,6 @@ Second Commit from Owen Witek
 This is my first commit. - Phoebe Liang
 
 
->>>>>>> 9bd1959188838a1cd0e03da351a44a592d10db72
 
 
 BRYCHUNG COMMIT
@@ -1075,7 +1058,6 @@ here in the playground
 
 It's 33 degrees Fahrenheit in New York today.
 
-<<<<<<<<<HEAD
 Aaron's first comment here! - 1/20/2016
 
 This is me(Maya), editing your file!
@@ -1260,7 +1242,6 @@ It appears I've edited the file structure of the repository on my computer which
 
 =======
 Is it possible to edit this directly???
->>>>>>> 9dda0cd9b076c1016f60e84b597b94ab16b79e8a
 
 This is my first change. AHHHHHHHH!
 
@@ -1273,7 +1254,6 @@ It's 33 degrees Fahrenheit in New York today.
 Hey this is Chris Llop
 Chris Commit 2
 
-<<<<<<<<<HEAD
 Aaron's first comment here! - 1/20/2016
 
 This is me(Maya), editing your file!
@@ -1401,7 +1381,7 @@ I can sense your every move,
 … to be continued in two days.
 
 Success! Hopefully...--Adam Reilly
-<<<<<<< HEAD
+
 Testing this out... yl
 2nd try... yl
 =======
@@ -1445,9 +1425,7 @@ Feeling all alive – together-
  …as never before…!
 
 Comment #1 from Owen Witek
->>>>>>> d755432cb0bb1b65fb6e718a81e5c00119de4fb7
 
-<<<<<<< HEAD
 All CA voters remember that tomorrow is your last day to register! -Adam Reilly
 
 From Typing the command “import this” into Python:
@@ -1511,10 +1489,8 @@ Tim figuring out the git pull does what I want but git fetch doesn't. Good to
 know.
 
 This is Andrew...comment #1
->>>>>>> 9dda0cd9b076c1016f60e84b597b94ab16b79e8a
 
 Jen2 having more trouble with her 2nd commit...I hope this works...this might be my 80th commit
->>>>>>> 876286d2f22f2d8937955c32ee8287868581b5cb
 
 
 Andrew again...comment #2adding my last statement
@@ -1533,13 +1509,13 @@ This is my first commit. - Phoebe Liang 6/8
 ___________________________________________________
 
 Hi, I'm Manish and I am a student at Cal. Go bears
->>>>>>> e7bd59e742135c3854ad8879c5c1007fc0371bbc
+
 
 ==================== ANOTHER BRYCHUNG COMMIT ====================
 ====================         06/09/16        ====================
 ==================== ANOTHER BRYCHUNG COMMIT ====================
 
-<<<<<<< HEAD
+
 This is Joey’s commit. Hi. 06/09/16first commit - Christian Choi
 
 
@@ -1553,26 +1529,24 @@ Let's not point any fingers here guys, let's just figure out how
 to get everybody working, amirite?
 
 ================ ANOTHER BRYCHUNG COMMIT 06/09/16 ================
->>>>>>> 99a0b819f69cc995b2de37d1023ba9f7e5d6ef11
+
 first commit - Christian Choi
 
 Commit1: Katerina Harnetiaux
   “Fall down seven times, Stand up eight times.” -Unknown
 This is maria's commit, is it OK? I'm not sure.
 Maria again, just test.
-<<<<<<< HEAD
+
 Can I edit this file in GitHub homepage? or should I make clone and edit the file in my conputer and push?
 New commit. - Joey Nguyen 06/11/16
 =======
 Can I edit this file in GitHub homepage? or should I make clone and edit the file in my conputer and push? Hellow everyone, my name is Jenny Jiang. This is my first time learning Python. I'm very excited about it! Hope we could become friends! I'm at Berkeley now.
-<<<<<<< HEAD
->>>>>>> 45bde7d0ba0096b7bb39346cb4cc3a66ff07b250
+
 =======
 A new line? Jenny. Yeah! Shangjun Jiang
 <<<<<<< HEAD
 Hello commit 2 by Shangjun Jiang
 =======
->>>>>>> b544aa162b66ec86f55c2e85350e49fd684db325
 
 Matt Joseph’s first commit - 6/11/16
 Duke Nguyen's 1st Commit 6/11
@@ -1633,7 +1607,6 @@ Hello, this is the second commit from Xiao\!
 ########################################################################
 ########################################################################
 
-<<<<<<< HEAD
 I think its working.
 
 Am I doing this successfully now?
@@ -1670,7 +1643,6 @@ here in the playground
 
 It's 33 degrees Fahrenheit in New York today.
 
-<<<<<<<<<HEAD
 Aaron's first comment here! - 1/20/2016
 
 Malini's first commit, yay!
@@ -1855,7 +1827,6 @@ It appears I've edited the file structure of the repository on my computer which
 
 =======
 Is it possible to edit this directly???
->>>>>>> 9dda0cd9b076c1016f60e84b597b94ab16b79e8a
 
 This is my first change. AHHHHHHHH!
 
@@ -1865,7 +1836,6 @@ here in the playground
 
 It's 33 degrees Fahrenheit in New York today.
 
-<<<<<<<<<HEAD
 Aaron's first comment here! - 1/20/2016
 
 This is me(Maya), editing your file!
@@ -1993,7 +1963,6 @@ I can sense your every move,
 … to be continued in two days.
 
 Success! Hopefully...--Adam Reilly
-<<<<<<< HEAD
 Testing this out... yl
 2nd try... yl
 =======
@@ -2037,9 +2006,7 @@ Feeling all alive – together-
  …as never before…!
 
 Comment #1 from Owen Witek
->>>>>>> d755432cb0bb1b65fb6e718a81e5c00119de4fb7
 
-<<<<<<< HEAD
 All CA voters remember that tomorrow is your last day to register! -Adam Reilly
 
 From Typing the command “import this” into Python:
@@ -2103,10 +2070,8 @@ Tim figuring out the git pull does what I want but git fetch doesn't. Good to
 know.
 
 This is Andrew...comment #1
->>>>>>> 9dda0cd9b076c1016f60e84b597b94ab16b79e8a
 
 Jen2 having more trouble with her 2nd commit...I hope this works...this might be my 80th commit
->>>>>>> 876286d2f22f2d8937955c32ee8287868581b5cb
 
 
 Andrew again...comment #2adding my last statement
@@ -2157,7 +2122,6 @@ here in the playground
 
 It's 33 degrees Fahrenheit in New York today.
 
-<<<<<<<<<HEAD
 Aaron's first comment here! - 1/20/2016
 
 This is me(Maya), editing your file!
@@ -2340,7 +2304,6 @@ It appears I've edited the file structure of the repository on my computer which
 
 =======
 Is it possible to edit this directly???
->>>>>>> 9dda0cd9b076c1016f60e84b597b94ab16b79e8a
 
 This is my first change. AHHHHHHHH!
 
@@ -2353,7 +2316,6 @@ It's 33 degrees Fahrenheit in New York today.
 Hey this is Chris Llop
 Chris Commit 2
 
-<<<<<<<<<HEAD
 Aaron's first comment here! - 1/20/2016
 
 This is me(Maya), editing your file!
@@ -2481,7 +2443,6 @@ I can sense your every move,
 … to be continued in two days.
 
 Success! Hopefully...--Adam Reilly
-<<<<<<< HEAD
 Testing this out... yl
 2nd try... yl
 =======
@@ -2525,9 +2486,7 @@ Feeling all alive – together-
  …as never before…!
 
 Comment #1 from Owen Witek
->>>>>>> d755432cb0bb1b65fb6e718a81e5c00119de4fb7
 
-<<<<<<< HEAD
 All CA voters remember that tomorrow is your last day to register! -Adam Reilly
 
 From Typing the command “import this” into Python:
@@ -2591,10 +2550,8 @@ Tim figuring out the git pull does what I want but git fetch doesn't. Good to
 know.
 
 This is Andrew...comment #1
->>>>>>> 9dda0cd9b076c1016f60e84b597b94ab16b79e8a
 
 Jen2 having more trouble with her 2nd commit...I hope this works...this might be my 80th commit
->>>>>>> 876286d2f22f2d8937955c32ee8287868581b5cb
 
 
 Andrew again...comment #2adding my last statement
@@ -2610,8 +2567,6 @@ Andrew again...comment #2adding my last statement
 Second Commit from Owen Witek
 This is my first commit. - Phoebe Liang
 
-
->>>>>>> 9bd1959188838a1cd0e03da351a44a592d10db72
 
 
 BRYCHUNG COMMIT
@@ -2652,7 +2607,6 @@ here in the playground
 
 It's 33 degrees Fahrenheit in New York today.
 
-<<<<<<<<<HEAD
 Aaron's first comment here! - 1/20/2016
 
 This is me(Maya), editing your file!
@@ -2835,7 +2789,6 @@ It appears I've edited the file structure of the repository on my computer which
 
 =======
 Is it possible to edit this directly???
->>>>>>> 9dda0cd9b076c1016f60e84b597b94ab16b79e8a
 
 This is my first change. AHHHHHHHH!
 
@@ -2848,7 +2801,6 @@ It's 33 degrees Fahrenheit in New York today.
 Hey this is Chris Llop
 Chris Commit 2
 
-<<<<<<<<<HEAD
 Aaron's first comment here! - 1/20/2016
 
 This is me(Maya), editing your file!
@@ -2976,7 +2928,6 @@ I can sense your every move,
 … to be continued in two days.
 
 Success! Hopefully...--Adam Reilly
-<<<<<<< HEAD
 Testing this out... yl
 2nd try... yl
 =======
@@ -3020,9 +2971,7 @@ Feeling all alive – together-
  …as never before…!
 
 Comment #1 from Owen Witek
->>>>>>> d755432cb0bb1b65fb6e718a81e5c00119de4fb7
 
-<<<<<<< HEAD
 All CA voters remember that tomorrow is your last day to register! -Adam Reilly
 
 From Typing the command “import this” into Python:
@@ -3086,10 +3035,8 @@ Tim figuring out the git pull does what I want but git fetch doesn't. Good to
 know.
 
 This is Andrew...comment #1
->>>>>>> 9dda0cd9b076c1016f60e84b597b94ab16b79e8a
 
 Jen2 having more trouble with her 2nd commit...I hope this works...this might be my 80th commit
->>>>>>> 876286d2f22f2d8937955c32ee8287868581b5cb
 
 
 Andrew again...comment #2adding my last statement
@@ -3108,13 +3055,12 @@ This is my first commit. - Phoebe Liang 6/8
 ___________________________________________________
 
 Hi, I'm Manish and I am a student at Cal. Go bears
->>>>>>> e7bd59e742135c3854ad8879c5c1007fc0371bbc
 
 ==================== ANOTHER BRYCHUNG COMMIT ====================
 ====================         06/09/16        ====================
 ==================== ANOTHER BRYCHUNG COMMIT ====================
 
-<<<<<<< HEAD
+
 This is Joey’s commit. Hi. 06/09/16first commit - Christian Choi
 
 
@@ -3128,23 +3074,22 @@ Let's not point any fingers here guys, let's just figure out how
 to get everybody working, amirite?
 
 ================ ANOTHER BRYCHUNG COMMIT 06/09/16 ================
->>>>>>> 99a0b819f69cc995b2de37d1023ba9f7e5d6ef11
+
 first commit - Christian Choi
 
 Commit1: Katerina Harnetiaux
   “Fall down seven times, Stand up eight times.” -Unknown
 This is maria's commit, is it OK? I'm not sure.
 Maria again, just test.
-<<<<<<< HEAD
+
 Can I edit this file in GitHub homepage? or should I make clone and edit the file in my conputer and push?
 New commit. - Joey Nguyen 06/11/16
 =======
 Can I edit this file in GitHub homepage? or should I make clone and edit the file in my conputer and push? Hellow everyone, my name is Jenny Jiang. This is my first time learning Python. I'm very excited about it! Hope we could become friends! I'm at Berkeley now.
-<<<<<<< HEAD
->>>>>>> 45bde7d0ba0096b7bb39346cb4cc3a66ff07b250
+
 =======
 A new line? Jenny. Yeah! Shangjun Jiang
->>>>>>> b544aa162b66ec86f55c2e85350e49fd684db325
+
 
 Matt Joseph’s first commit - 6/11/16
 Duke Nguyen's 1st Commit 6/11
@@ -3166,14 +3111,14 @@ This is my first comment - Talitha McAdams
 ######
 Hello, this is Josh Park’s first comment 6/12 @4:48pm
 3a4ee0e3ab614e1c43a985931bb7a1670fd979f0
-<<<<<<< HEAD
+
 
 
 ok,try again.It's Maria
 =======
 
 This is Josh’s second comment.
->>>>>>> b5b3aba7dfbf07140cb89ea883a56f0826bfa360
+
 B l a h   b l a h   b l a h
 
 ----------------------
@@ -3778,14 +3723,10 @@ Temperature: 62.1 F (16.7 C)
    Wind: from the W (270 degrees) at 14 MPH (12 KT)
    Sky conditions: partly cloudy
 
->>>>>>> 04a4d9986e6228ed9f78661b4892a91fb90bba0d
-<<<<<<< HEAD
->>>>>>> 389e64bae18ee7e649ea7f50a6d362f001b9764e
 Finally did the merge.. confused at first. by Shangjun Jiang
 =======
 Xiao again
-<<<<<<< HEAD
->>>>>>> ebcc2fb76b7146f19a03261b83b192dca196de83
+
 =======
 
 Hi! I'm the output from a bash script that uses
@@ -3802,7 +3743,6 @@ Temperature: 62.1 F (16.7 C)
    Wind: from the W (270 degrees) at 14 MPH (12 KT)
    Sky conditions: partly cloudy
 
->>>>>>> 5e411a8d85dd53f20f548d0ba37c8e5bc518944f
 Someone else is working on this???
 
 Hi! I'm the output from a bash script that uses
@@ -3904,3 +3844,80 @@ Temperature: 63.0 F (17.2 C)
    Sky conditions: mostly clear
 
 I like playgrounds. I’m also definitely doing this too late oops sorry
+=======
+
+Hi! I'm the output from a bash script that uses
+a while loop and the GitHub API to periodically 
+edit files with the current time and date along
+with a weather report before pushing changes to a 
+remote repo.  
+
+This is loop number 37.
+The local system date and time is Mon Jun 13 11:55:39 PDT 2016.
+Here is a weather report for Oakland International Airport:
+Temperature: 63.0 F (17.2 C)
+   Relative Humidity: 60%
+   Wind: from the W (260 degrees) at 16 MPH (14 KT)
+   Sky conditions: mostly clear
+
+
+Hi! I'm the output from a bash script that uses
+a while loop and the GitHub API to periodically 
+edit files with the current time and date along
+with a weather report before pushing changes to a 
+remote repo.  
+
+This is loop number 38.
+The local system date and time is Mon Jun 13 12:05:48 PDT 2016.
+Here is a weather report for Oakland International Airport:
+Temperature: 63.0 F (17.2 C)
+   Relative Humidity: 60%
+   Wind: from the WSW (250 degrees) at 18 MPH (16 KT)
+   Sky conditions: mostly clear
+
+
+Hi! I'm the output from a bash script that uses
+a while loop and the GitHub API to periodically 
+edit files with the current time and date along
+with a weather report before pushing changes to a 
+remote repo.  
+
+This is loop number 39.
+The local system date and time is Mon Jun 13 12:15:58 PDT 2016.
+Here is a weather report for Oakland International Airport:
+Temperature: 63.0 F (17.2 C)
+   Relative Humidity: 60%
+   Wind: from the WSW (250 degrees) at 18 MPH (16 KT)
+   Sky conditions: mostly clear
+
+
+Hi! I'm the output from a bash script that uses
+a while loop and the GitHub API to periodically 
+edit files with the current time and date along
+with a weather report before pushing changes to a 
+remote repo.  
+
+This is loop number 40.
+The local system date and time is Mon Jun 13 12:26:05 PDT 2016.
+Here is a weather report for Oakland International Airport:
+Temperature: 63.0 F (17.2 C)
+   Relative Humidity: 60%
+   Wind: from the WSW (250 degrees) at 18 MPH (16 KT)
+   Sky conditions: mostly clear
+
+
+Hi! I'm the output from a bash script that uses
+a while loop and the GitHub API to periodically 
+edit files with the current time and date along
+with a weather report before pushing changes to a 
+remote repo.  
+
+This is loop number 41.
+The local system date and time is Mon Jun 13 12:36:12 PDT 2016.
+Here is a weather report for Oakland International Airport:
+Temperature: 63.0 F (17.2 C)
+   Relative Humidity: 60%
+   Wind: from the WSW (250 degrees) at 18 MPH (16 KT)
+   Sky conditions: mostly clear
+
+Jess editing here. I’m late and confused!! :)
