@@ -1,4 +1,4 @@
-########################################################################
+﻿########################################################################
 ########################################################################
 
  "Educators, generals, dieticians, psychologists, and parents
@@ -32,7 +32,7 @@
   mechanisms expressed as programs and the explosion of perception
   they generate. If art interprets our dreams, the computer executes
   them in the guise of programs!"
-  -- Abelson & Sussman, SICP 
+  -- Abelson & Sussman, SICP
 
  "Mathematics presented as a closed, linearly ordered,
   system of truths without reference to origin and purpose
@@ -87,6 +87,8 @@ It's 33 degrees Fahrenheit in New York today.
 
 <<<<<<<<<HEAD
 Aaron's first comment here! - 1/20/2016
+
+Malini's first commit, yay! 
 
 This is me(Maya), editing your file!
 This is me again, this time from the command line.
@@ -207,7 +209,7 @@ This is my first edit. Cindy Fan
 I feel like neo in the matrix when I work from the command prompt, especially with my new green on black theme
 Omar
 
-POEM (by Natallia Spell): 
+POEM (by Natallia Spell):
 Connected to you by invisible threads-
 I can sense your every move,
 
@@ -399,7 +401,7 @@ Omar
 I'm fairly sure my first two commits we're in cloned copies of this document. That was dumb of me. ...And still trying.
 # fail on fail on fail
 
-POEM (by Natallia Spell): 
+POEM (by Natallia Spell):
 Connected to you by invisible threads-
 I can sense your every move,
 
@@ -421,7 +423,7 @@ Jen2
 N.Spell-POEM(continued as promised)
 …Touching your face with my hand  -
 I can feel your every thought.
-Being with you in the coldest day 
+Being with you in the coldest day
 keeps me safe and warm:
 There, in your arms
 Melting like a wax,
@@ -446,7 +448,7 @@ Here, in my heart,
  With my every sigh -
 Opening this door into the world-
 we will never be apart any more ,
-Feeling all alive – together- 
+Feeling all alive – together-
  …as never before…!
 
 Comment #1 from Owen Witek
@@ -480,9 +482,9 @@ Namespaces are one honking great idea -- let's do more of those!
 — HB
 
 Tim figuring out the git pull does what I want but git fetch doesn't. Good to
-know. 
+know.
 
-This is Andrew...comment #1 
+This is Andrew...comment #1
 
 Andrew again...comment #2
 =======
@@ -513,9 +515,9 @@ Namespaces are one honking great idea -- let's do more of those!
 — HB
 
 Tim figuring out the git pull does what I want but git fetch doesn't. Good to
-know. 
+know.
 
-This is Andrew...comment #1 
+This is Andrew...comment #1
 >>>>>>> 9dda0cd9b076c1016f60e84b597b94ab16b79e8a
 
 Jen2 having more trouble with her 2nd commit...I hope this works...this might be my 80th commit
@@ -524,7 +526,7 @@ Jen2 having more trouble with her 2nd commit...I hope this works...this might be
 
 Andrew again...comment #2adding my last statement
 
- 
+
 
 
 
@@ -692,7 +694,7 @@ This is my first edit. Cindy Fan
 I feel like neo in the matrix when I work from the command prompt, especially with my new green on black theme
 Omar
 
-POEM (by Natallia Spell): 
+POEM (by Natallia Spell):
 Connected to you by invisible threads-
 I can sense your every move,
 
@@ -887,7 +889,7 @@ Omar
 I'm fairly sure my first two commits we're in cloned copies of this document. That was dumb of me. ...And still trying.
 # fail on fail on fail
 
-POEM (by Natallia Spell): 
+POEM (by Natallia Spell):
 Connected to you by invisible threads-
 I can sense your every move,
 
@@ -909,7 +911,7 @@ Jen2
 N.Spell-POEM(continued as promised)
 …Touching your face with my hand  -
 I can feel your every thought.
-Being with you in the coldest day 
+Being with you in the coldest day
 keeps me safe and warm:
 There, in your arms
 Melting like a wax,
@@ -934,7 +936,7 @@ Here, in my heart,
  With my every sigh -
 Opening this door into the world-
 we will never be apart any more ,
-Feeling all alive – together- 
+Feeling all alive – together-
  …as never before…!
 
 Comment #1 from Owen Witek
@@ -968,9 +970,9 @@ Namespaces are one honking great idea -- let's do more of those!
 — HB
 
 Tim figuring out the git pull does what I want but git fetch doesn't. Good to
-know. 
+know.
 
-This is Andrew...comment #1 
+This is Andrew...comment #1
 
 Andrew again...comment #2
 =======
@@ -1001,9 +1003,9 @@ Namespaces are one honking great idea -- let's do more of those!
 — HB
 
 Tim figuring out the git pull does what I want but git fetch doesn't. Good to
-know. 
+know.
 
-This is Andrew...comment #1 
+This is Andrew...comment #1
 >>>>>>> 9dda0cd9b076c1016f60e84b597b94ab16b79e8a
 
 Jen2 having more trouble with her 2nd commit...I hope this works...this might be my 80th commit
@@ -1012,7 +1014,7 @@ Jen2 having more trouble with her 2nd commit...I hope this works...this might be
 
 Andrew again...comment #2adding my last statement
 
- 
+
 
 
 
@@ -1187,7 +1189,7 @@ This is my first edit. Cindy Fan
 I feel like neo in the matrix when I work from the command prompt, especially with my new green on black theme
 Omar
 
-POEM (by Natallia Spell): 
+POEM (by Natallia Spell):
 Connected to you by invisible threads-
 I can sense your every move,
 
@@ -1382,7 +1384,7 @@ Omar
 I'm fairly sure my first two commits we're in cloned copies of this document. That was dumb of me. ...And still trying.
 # fail on fail on fail
 
-POEM (by Natallia Spell): 
+POEM (by Natallia Spell):
 Connected to you by invisible threads-
 I can sense your every move,
 
@@ -1404,7 +1406,7 @@ Jen2
 N.Spell-POEM(continued as promised)
 …Touching your face with my hand  -
 I can feel your every thought.
-Being with you in the coldest day 
+Being with you in the coldest day
 keeps me safe and warm:
 There, in your arms
 Melting like a wax,
@@ -1429,7 +1431,7 @@ Here, in my heart,
  With my every sigh -
 Opening this door into the world-
 we will never be apart any more ,
-Feeling all alive – together- 
+Feeling all alive – together-
  …as never before…!
 
 Comment #1 from Owen Witek
@@ -1463,9 +1465,9 @@ Namespaces are one honking great idea -- let's do more of those!
 — HB
 
 Tim figuring out the git pull does what I want but git fetch doesn't. Good to
-know. 
+know.
 
-This is Andrew...comment #1 
+This is Andrew...comment #1
 
 Andrew again...comment #2
 =======
@@ -1496,9 +1498,9 @@ Namespaces are one honking great idea -- let's do more of those!
 — HB
 
 Tim figuring out the git pull does what I want but git fetch doesn't. Good to
-know. 
+know.
 
-This is Andrew...comment #1 
+This is Andrew...comment #1
 >>>>>>> 9dda0cd9b076c1016f60e84b597b94ab16b79e8a
 
 Jen2 having more trouble with her 2nd commit...I hope this works...this might be my 80th commit
@@ -1507,7 +1509,7 @@ Jen2 having more trouble with her 2nd commit...I hope this works...this might be
 
 Andrew again...comment #2adding my last statement
 
- 
+
 
 
 
@@ -1549,7 +1551,7 @@ Commit1: Katerina Harnetiaux
 This is maria's commit, is it OK? I'm not sure.
 Maria again, just test.
 <<<<<<< HEAD
-Can I edit this file in GitHub homepage? or should I make clone and edit the file in my conputer and push? 
+Can I edit this file in GitHub homepage? or should I make clone and edit the file in my conputer and push?
 New commit. - Joey Nguyen 06/11/16
 =======
 Can I edit this file in GitHub homepage? or should I make clone and edit the file in my conputer and push? Hellow everyone, my name is Jenny Jiang. This is my first time learning Python. I'm very excited about it! Hope we could become friends! I'm at Berkeley now.
@@ -1566,16 +1568,48 @@ ___________________________________________________
 This is my second commit. - Phoebe Liang  6/11
 ___________________________________________________
 Hello World from Xiao
-H i   M y   n a m e   i s   P a g a a l u c k   O o n s i r i   a n d   t h i s   i s   m y   f i r s t   c o m m i t !   6 / 1 1 / 1 6  
- Follow me on Twitter @mksingh97 - Commit #2
+H i   M y   n a m e   i s   P a g a a l u c k   O o n s i r i   a n d   t h i s   i s   m y   f i r s t   c o m m i t !   6 / 1 1 / 1 6 
+ 
+ Follow me on Twitter @mksingh97 - Commit #2
 
 Commit2: Katerina Harnetiaux
    “Happiness is the only thing we can give without having.”
 
-<<<<<<< HEAD
-ChulMin Park’s commit1:
-Simple is really better than complex
-=======
+This is my first comment - Talitha McAdams
+  Nothing to practice, nothing to prove, nothing to win, nothing to lose. - Thich Nhat Han
+
 ######
 Hello, this is Josh Park’s first comment 6/12 @4:48pm
->>>>>>> 3a4ee0e3ab614e1c43a985931bb7a1670fd979f0
+3a4ee0e3ab614e1c43a985931bb7a1670fd979f0
+<<<<<<< HEAD
+
+
+ok,try again.It's Maria
+=======
+
+This is Josh’s second comment.
+>>>>>>> b5b3aba7dfbf07140cb89ea883a56f0826bfa360
+B l a h   b l a h   b l a h  
+ 
+----------------------
+This is Mamoru Tatematsu. First Try. 
+I live in Tokyo, Japan. 
+I love to play strategy games like poker, catan, and TCG. 
+Thank you
+----------------------
+
+Maria again! Hello
+----------------------
+This is Mamoru Tatematsu. Second Try.
+KEEP CALM and STAY SIGNIFICANT
+Go Bears
+----------------------
+
+
+
+
+ChulMin Park’s commit1:
+Simple is really better than complex
+
+######
+Hello, this is Josh Park’s first comment 6/12 @4:48pm
