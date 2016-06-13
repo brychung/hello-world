@@ -1573,4 +1573,4 @@ Commit2: Katerina Harnetiaux
    “Happiness is the only thing we can give without having.”
 
 ######
-Hi, this is Josh Park’s first comment 6/12 @4:48pm
+Hello, this is Josh Park’s first comment 6/12 @4:48pm
