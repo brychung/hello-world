@@ -11,5 +11,5 @@ Temperature: 59.0 F (15.0 C)
    Wind: from the WNW (290 degrees) at 12 MPH (10 KT)
    Sky conditions: overcast
 
-This is loop number 5.
-The local system date and time is Mon Jun 13 06:31:29 PDT 2016.
+This is loop number 6.
+The local system date and time is Mon Jun 13 06:41:37 PDT 2016.
