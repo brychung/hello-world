@@ -3778,3 +3778,4 @@ Temperature: 62.1 F (16.7 C)
 
 >>>>>>> 04a4d9986e6228ed9f78661b4892a91fb90bba0d
 >>>>>>> 389e64bae18ee7e649ea7f50a6d362f001b9764e
+Finally did the merge.. confused at first. by Shangjun Jiang
