@@ -3782,4 +3782,22 @@ Temperature: 62.1 F (16.7 C)
 Finally did the merge.. confused at first. by Shangjun Jiang
 =======
 Xiao again
+<<<<<<< HEAD
 >>>>>>> ebcc2fb76b7146f19a03261b83b192dca196de83
+=======
+
+Hi! I'm the output from a bash script that uses
+a while loop and the GitHub API to periodically 
+edit files with the current time and date along
+with a weather report before pushing changes to a 
+remote repo.  
+
+This is loop number 30.
+The local system date and time is Mon Jun 13 10:44:50 PDT 2016.
+Here is a weather report for Oakland International Airport:
+Temperature: 62.1 F (16.7 C)
+   Relative Humidity: 64%
+   Wind: from the W (270 degrees) at 14 MPH (12 KT)
+   Sky conditions: partly cloudy
+
+>>>>>>> 5e411a8d85dd53f20f548d0ba37c8e5bc518944f
