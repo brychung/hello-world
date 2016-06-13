@@ -1578,3 +1578,5 @@ This is my first comment - Talitha McAdams
 ######
 Hello, this is Josh Park’s first comment 6/12 @4:48pm
 3a4ee0e3ab614e1c43a985931bb7a1670fd979f0
+
+This is Josh’s second comment.
