@@ -6,10 +6,10 @@ and date along with a weather report before  pushing changes to
 viewable here: https://github.com/affinespaces/shellscripts/blob/master/autopush.sh
 
 Here is a weather report for Oakland International Airport:
-Temperature: 60.1 F (15.6 C)
+Temperature: 61.0 F (16.1 C)
    Relative Humidity: 69%
-   Wind: from the W (260 degrees) at 15 MPH (13 KT)
+   Wind: from the WSW (250 degrees) at 18 MPH (16 KT)
    Sky conditions: mostly cloudy
 
-This is loop number 23.
-The local system date and time is Mon Jun 13 09:33:51 PDT 2016.
+This is loop number 24.
+The local system date and time is Mon Jun 13 09:43:59 PDT 2016.
