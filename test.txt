@@ -1,7 +1,7 @@
 
 
-This is loop number 2.
-The local system date and time is Mon Jun 13 04:47:17 PDT 2016.
+This is loop number 3.
+The local system date and time is Mon Jun 13 04:47:26 PDT 2016.
 Here is a weather report for Oakland International Airport:
 Temperature: 59.0 F (15.0 C)
    Relative Humidity: 74%
