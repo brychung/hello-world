@@ -1,3 +1,11 @@
+
+=======
+ HEAD
+I didn't start the homework till today which asked for at least two days seperated between the pushing and pulling commands to edit the edit.txt file. Screwed already for first week. Signed Tra Tran. OMG it's not working
+=======
+﻿ HEAD
+ DHEAD
+ cc4f0f1027f9465adc87fdf7b01cd60adae62007
 I think its working.
 
 Am I doing this successfully now?
@@ -892,7 +900,7 @@ I can sense your every move,
 … to be continued in two days.
 
 Success! Hopefully...--Adam Reilly
-<<<<<<< HEAD
+ HEAD
 Testing this out... yl
 2nd try... yl
 =======
@@ -1544,7 +1552,7 @@ Can I edit this file in GitHub homepage? or should I make clone and edit the fil
 
 =======
 A new line? Jenny. Yeah! Shangjun Jiang
-<<<<<<< HEAD
+ HEAD
 Hello commit 2 by Shangjun Jiang
 =======
 
@@ -3920,4 +3928,102 @@ Temperature: 63.0 F (17.2 C)
    Wind: from the WSW (250 degrees) at 18 MPH (16 KT)
    Sky conditions: mostly clear
 
+ HEAD
 Jess editing here. I’m late and confused!! :)
+=======
+ HEAD
+ d6d82a0a8457fea70daf433ab58c673788a58db4
+=======
+
+Hi! I'm the output from a bash script that uses
+a while loop and the GitHub API to periodically 
+edit files with the current time and date along
+with a weather report before pushing changes to a 
+remote repo.  
+
+This is loop number 42.
+The local system date and time is Mon Jun 13 12:46:21 PDT 2016.
+Here is a weather report for Oakland International Airport:
+Temperature: 63.0 F (17.2 C)
+   Relative Humidity: 60%
+   Wind: from the WSW (250 degrees) at 18 MPH (16 KT)
+   Sky conditions: mostly clear
+
+ 398473b95e288da79b8465ef65a60ad445e3f657
+I guess I can't delete the file and over write it. Gosh, costed me too much time
+
+Hi! I'm the output from a bash script that uses
+a while loop and the GitHub API to periodically 
+edit files with the current time and date along
+with a weather report before pushing changes to a 
+remote repo.  
+
+This is loop number 43.
+The local system date and time is Mon Jun 13 12:56:28 PDT 2016.
+Here is a weather report for Oakland International Airport:
+Temperature: 63.0 F (17.2 C)
+   Relative Humidity: 60%
+   Wind: from the WSW (250 degrees) at 18 MPH (16 KT)
+   Sky conditions: mostly clear
+
+
+Hi! I'm the output from a bash script that uses
+a while loop and the GitHub API to periodically 
+edit files with the current time and date along
+with a weather report before pushing changes to a 
+remote repo.  
+
+This is loop number 44.
+The local system date and time is Mon Jun 13 13:06:35 PDT 2016.
+Here is a weather report for Oakland International Airport:
+Temperature: 63.0 F (17.2 C)
+   Relative Humidity: 60%
+   Wind: from the WSW (250 degrees) at 18 MPH (16 KT)
+   Sky conditions: mostly clear
+
+
+Hi! I'm the output from a bash script that uses
+a while loop and the GitHub API to periodically 
+edit files with the current time and date along
+with a weather report before pushing changes to a 
+remote repo.  
+
+This is loop number 45.
+The local system date and time is Mon Jun 13 13:16:42 PDT 2016.
+Here is a weather report for Oakland International Airport:
+Temperature: 63.0 F (17.2 C)
+   Relative Humidity: 60%
+   Wind: from the WSW (250 degrees) at 18 MPH (16 KT)
+   Sky conditions: mostly clear
+
+
+Hi! I'm the output from a bash script that uses
+a while loop and the GitHub API to periodically 
+edit files with the current time and date along
+with a weather report before pushing changes to a 
+remote repo.  
+
+This is loop number 46.
+The local system date and time is Mon Jun 13 13:26:50 PDT 2016.
+Here is a weather report for Oakland International Airport:
+Temperature: 62.1 F (16.7 C)
+   Relative Humidity: 62%
+   Wind: from the WSW (240 degrees) at 6 MPH (5 KT)
+   Sky conditions: mostly clear
+
+
+Hi! I'm the output from a bash script that uses
+a while loop and the GitHub API to periodically 
+edit files with the current time and date along
+with a weather report before pushing changes to a 
+remote repo.  
+
+This is loop number 47.
+The local system date and time is Mon Jun 13 13:36:58 PDT 2016.
+Here is a weather report for Oakland International Airport:
+Temperature: 62.1 F (16.7 C)
+   Relative Humidity: 62%
+   Wind: from the WSW (240 degrees) at 6 MPH (5 KT)
+   Sky conditions: mostly clear
+
+ cc4f0f1027f9465adc87fdf7b01cd60adae62007
