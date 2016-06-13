@@ -88,7 +88,7 @@ It's 33 degrees Fahrenheit in New York today.
 <<<<<<<<<HEAD
 Aaron's first comment here! - 1/20/2016
 
-Malini's first commit, yay! 
+Malini's first commit, yay!
 
 This is me(Maya), editing your file!
 This is me again, this time from the command line.
@@ -1568,8 +1568,8 @@ ___________________________________________________
 This is my second commit. - Phoebe Liang  6/11
 ___________________________________________________
 Hello World from Xiao
-H i   M y   n a m e   i s   P a g a a l u c k   O o n s i r i   a n d   t h i s   i s   m y   f i r s t   c o m m i t !   6 / 1 1 / 1 6 
- 
+H i   M y   n a m e   i s   P a g a a l u c k   O o n s i r i   a n d   t h i s   i s   m y   f i r s t   c o m m i t !   6 / 1 1 / 1 6
+
  Follow me on Twitter @mksingh97 - Commit #2
 
 Commit2: Katerina Harnetiaux
@@ -1589,12 +1589,12 @@ ok,try again.It's Maria
 
 This is Josh’s second comment.
 >>>>>>> b5b3aba7dfbf07140cb89ea883a56f0826bfa360
-B l a h   b l a h   b l a h  
- 
+B l a h   b l a h   b l a h
+
 ----------------------
-This is Mamoru Tatematsu. First Try. 
-I live in Tokyo, Japan. 
-I love to play strategy games like poker, catan, and TCG. 
+This is Mamoru Tatematsu. First Try.
+I live in Tokyo, Japan.
+I love to play strategy games like poker, catan, and TCG.
 Thank you
 ----------------------
 
@@ -1635,3 +1635,8 @@ kkkkkkkkkkkkkkkkkkkkkk
 
 LOL
 --------------------------
+
+
+Just breathe.
+
+This is Talitha's second commit 8:50 pm 6/12
