@@ -1655,3 +1655,13 @@ This is Shicheng's first commit
 Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught.
 
 ---
+
+
+This is loop number 1.
+The local system date and time is Mon Jun 13 04:52:04 PDT 2016.
+Here is a weather report for Oakland International Airport:
+Temperature: 59.0 F (15.0 C)
+   Relative Humidity: 74%
+   Wind: from the WNW (290 degrees) at 10 MPH (9 KT)
+   Sky conditions: overcast
+
