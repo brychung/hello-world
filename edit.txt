@@ -1875,3 +1875,5 @@ Temperature: 59.0 F (15.0 C)
    Wind: from the WNW (290 degrees) at 12 MPH (10 KT)
    Sky conditions: overcast
 
+e d i t i n g   . . .   t h i s   . . . f i l e   . . .  
+ 
