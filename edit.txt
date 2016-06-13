@@ -1589,11 +1589,13 @@ ok,try again.It's Maria
 
 This is Josh’s second comment.
 >>>>>>> b5b3aba7dfbf07140cb89ea883a56f0826bfa360
-B l a h   b l a h   b l a h  
- 
+B l a h   b l a h   b l a h  
+ 
 ----------------------
 This is Mamoru Tatematsu. First Try. 
 I live in Tokyo, Japan. 
 I love to play strategy games like poker, catan, and TCG. 
 Thank you
 ----------------------
+
+Maria again! Hello
