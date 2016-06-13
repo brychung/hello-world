@@ -1572,5 +1572,10 @@ H i   M y   n a m e   i s   P a g a a l u c k   O o n s i r i   a n d   t h i s 
 Commit2: Katerina Harnetiaux
    “Happiness is the only thing we can give without having.”
 
+<<<<<<< HEAD
 ChulMin Park’s commit1:
 Simple is really better than complex
+=======
+######
+Hello, this is Josh Park’s first comment 6/12 @4:48pm
+>>>>>>> 3a4ee0e3ab614e1c43a985931bb7a1670fd979f0
