@@ -1,4 +1,4 @@
-########################################################################
+﻿########################################################################
 ########################################################################
 
  "Educators, generals, dieticians, psychologists, and parents
@@ -1617,8 +1617,8 @@ Hello, this is Josh Park’s first comment 6/12 @4:48pm
 This is Mamoru Tatematsu. Third Try.
 Go Bears
 ----------------------
-s e c o n d   c o m m i t   -   C h r i s t i a n   C h o i  
- 
+s e c o n d   c o m m i t   -   C h r i s t i a n   C h o i  
+ 
 
 ----------------------
 This is Mamoru Tatematsu. 4th Try.
@@ -1642,3 +1642,5 @@ Just breathe.
 This is Talitha's second commit 8:50 pm 6/12
 ———————————————
 I hope this time it works..
+
+Charles' First Edit (mucho take it easy)
