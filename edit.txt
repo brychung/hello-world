@@ -3198,6 +3198,13 @@ Education is an admirable thing, but it is well to remember from time to time th
 
 ---
 
+This is Shicheng's second commit
+
+You're much more likely to do well if you start out to do something feasible instead of something that isn't feasibl. Isn't that 
+perfectly obvious?
+
+---
+
 
 This is loop number 1.
 The local system date and time is Mon Jun 13 04:52:04 PDT 2016.
