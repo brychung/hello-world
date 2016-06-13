@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+########################################################################
+=======
 
 =======
  HEAD
@@ -1566,6 +1569,7 @@ Hello World from Xiao
 Hello, this is the second commit from Xiao\!
 =======
 ﻿########################################################################
+>>>>>>> 460887185204fed3bb77b2664303780d68f5b5d6
 ########################################################################
 
  "Educators, generals, dieticians, psychologists, and parents
@@ -4043,6 +4047,7 @@ Temperature: 62.1 F (16.7 C)
    Sky conditions: mostly clear
 
 
+<<<<<<< HEAD
 Hi! I'm the output from a bash script that uses
 a while loop and the GitHub API to periodically 
 edit files with the current time and date along
@@ -4051,6 +4056,31 @@ remote repo.
 
 This is loop number 49.
 The local system date and time is Mon Jun 13 13:57:32 PDT 2016.
+Here is a weather report for Oakland International Airport:
+Temperature: 62.1 F (16.7 C)
+   Relative Humidity: 62%
+   Wind: from the WSW (240 degrees) at 6 MPH (5 KT)
+   Sky conditions: mostly clear
+
+=======
+######
+Hello, this is Josh Park’s first comment 6/12 @4:48pm
+
+
+ChulMin Park’s commit2:
+This is my second commit
+
+Duke Nguyen's 2nd Commit 6/13
+>>>>>>> 4939f01c9b4334bb1b15519f724e0930cdcb1ee9
+
+Hi! I'm the output from a bash script that uses
+a while loop and the GitHub API to periodically 
+edit files with the current time and date along
+with a weather report before pushing changes to a 
+remote repo.  
+
+This is loop number 50.
+The local system date and time is Mon Jun 13 14:07:59 PDT 2016.
 Here is a weather report for Oakland International Airport:
 Temperature: 62.1 F (16.7 C)
    Relative Humidity: 62%
