@@ -1,0 +1,15 @@
+
+I'm the output from a bash script that uses a  while loop and 
+the GitHub API to periodically edit files with the current time 
+and date along with a weather report before  pushing changes to
+ a remote repo. I update every 10 minutes. My source code is
+viewable here: https://github.com/affinespaces/shellscripts/blob/master/autopush.sh
+
+Here is a weather report for Oakland International Airport:
+Temperature: 62.1 F (16.7 C)
+   Relative Humidity: 62%
+   Wind: from the WSW (240 degrees) at 6 MPH (5 KT)
+   Sky conditions: mostly clear
+
+This is loop number 48.
+The local system date and time is Mon Jun 13 13:47:06 PDT 2016.
