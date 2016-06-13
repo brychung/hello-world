@@ -31,3 +31,8 @@ This is loop number 3. The local system date and time is Mon Jun 13 03:59:20 PDT
    Relative Humidity: 77%
    Wind: from the W (280 degrees) at 9 MPH (8 KT)
    Sky conditions: overcast
+This is loop number 4. The local system date and time is Mon Jun 13 03:59:42 PDT 2016. Here is a current weather report: 
+      Temperature: 59.0 F (15.0 C)
+   Relative Humidity: 77%
+   Wind: from the W (280 degrees) at 9 MPH (8 KT)
+   Sky conditions: overcast
