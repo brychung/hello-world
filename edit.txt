@@ -3963,3 +3963,18 @@ Temperature: 63.0 F (17.2 C)
    Wind: from the WSW (250 degrees) at 18 MPH (16 KT)
    Sky conditions: mostly clear
 
+
+Hi! I'm the output from a bash script that uses
+a while loop and the GitHub API to periodically 
+edit files with the current time and date along
+with a weather report before pushing changes to a 
+remote repo.  
+
+This is loop number 41.
+The local system date and time is Mon Jun 13 12:36:12 PDT 2016.
+Here is a weather report for Oakland International Airport:
+Temperature: 63.0 F (17.2 C)
+   Relative Humidity: 60%
+   Wind: from the WSW (250 degrees) at 18 MPH (16 KT)
+   Sky conditions: mostly clear
+

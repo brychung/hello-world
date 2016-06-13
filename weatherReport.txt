@@ -11,5 +11,5 @@ Temperature: 63.0 F (17.2 C)
    Wind: from the WSW (250 degrees) at 18 MPH (16 KT)
    Sky conditions: mostly clear
 
-This is loop number 40.
-The local system date and time is Mon Jun 13 12:26:05 PDT 2016.
+This is loop number 41.
+The local system date and time is Mon Jun 13 12:36:12 PDT 2016.
