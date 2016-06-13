@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< DHEAD
 I think its working.
 
 Am I doing this successfully now?
@@ -17,8 +17,8 @@ I'm a bit of a stickler Meeseeks, what about your short game?
 
 Meeseeks don't usually have to exist for this long. It's gettin' weeeiiird...
 
-Meeseeks were not born into this world fumbling for meaning, Jerry!
-
+Meeseeks were not born into this world fumbling or meaning, vvvverry!
+D
 "Is he keeping his shoulders square?" "Oooooooh he's tryin'!"
 
 Oh, we're welllll past that, JERRY!
@@ -102,6 +102,64 @@ mkdir editor2
 cd editor1
 git clone git@github.com:MIDS-INFO-W18/github-playground.git
 cd ../editor2
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
+ "Do you want to build a snowman?"
 git clone git@github.com:MIDS-INFO-W18/github-playground.git
 # now we have two users working on the same repository
 
@@ -116,6 +174,7 @@ cd Desktop/demo
 mkdir editor1
 mkdir editor2
 cd editor1
+
 git clone git@github.com:MIDS-INFO-W18/github-playground.git
 cd ../editor2
 git clone git@github.com:MIDS-INFO-W18/github-playground.git
@@ -1516,3 +1575,4 @@ ___________________________________________________
 This is my second commit. - Phoebe Liang  6/11
 ___________________________________________________
 Hello World from Xiao
+Hello, this is the second commit from Xiao\!
