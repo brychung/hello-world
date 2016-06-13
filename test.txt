@@ -13,4 +13,5 @@ This is loop number 2. The local system date and time is Mon Jun 13 02:35:21 PDT
 This is loop number 3. The local system date and time is Mon Jun 13 02:35:39 PDT 2016.
 This is loop number 1. The local system date and time is Mon Jun 13 03:51:56 PDT 2016. Here is a current weather report: 
  This is loop number 2. The local system date and time is Mon Jun 13 03:52:18 PDT 2016. Here is a current weather report: 
+ This is loop number 3. The local system date and time is Mon Jun 13 03:52:41 PDT 2016. Here is a current weather report: 
  
