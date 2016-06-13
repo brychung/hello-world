@@ -1617,7 +1617,8 @@ Hello, this is Josh Park’s first comment 6/12 @4:48pm
 This is Mamoru Tatematsu. Third Try.
 Go Bears
 ----------------------
-s e c o n d   c o m m i t   -   C h r i s t i a n   C h o i  
+s e c o n d   c o m m i t   -   C h r i s t i a n   C h o i 
+ 
  
 
 ----------------------
@@ -1646,3 +1647,11 @@ I hope this time it works..
 Charles' First Edit (mucho take it easy)
 
 Charles' Second Edit (que sera sera)
+
+
+---
+This is Shicheng's first commit
+
+Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught.
+
+---
