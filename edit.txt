@@ -1569,6 +1569,9 @@ Can I edit this file in GitHub homepage? or should I make clone and edit the fil
 >>>>>>> 45bde7d0ba0096b7bb39346cb4cc3a66ff07b250
 =======
 A new line? Jenny. Yeah! Shangjun Jiang
+<<<<<<< HEAD
+Hello commit 2 by Shangjun Jiang
+=======
 >>>>>>> b544aa162b66ec86f55c2e85350e49fd684db325
 
 Matt Joseph’s first commit - 6/11/16
@@ -3776,7 +3779,14 @@ Temperature: 62.1 F (16.7 C)
    Sky conditions: partly cloudy
 
 >>>>>>> 04a4d9986e6228ed9f78661b4892a91fb90bba0d
+<<<<<<< HEAD
+>>>>>>> 389e64bae18ee7e649ea7f50a6d362f001b9764e
+Finally did the merge.. confused at first. by Shangjun Jiang
+=======
 Xiao again
+<<<<<<< HEAD
+>>>>>>> ebcc2fb76b7146f19a03261b83b192dca196de83
+=======
 
 Hi! I'm the output from a bash script that uses
 a while loop and the GitHub API to periodically 
@@ -3792,3 +3802,4 @@ Temperature: 62.1 F (16.7 C)
    Wind: from the W (270 degrees) at 14 MPH (12 KT)
    Sky conditions: partly cloudy
 
+>>>>>>> 5e411a8d85dd53f20f548d0ba37c8e5bc518944f
