@@ -6991,5 +6991,12 @@ Temperature: 60.1 F (15.6 C)
    Wind: from the WNW (290 degrees) at 21 MPH (18 KT)
    Sky conditions: partly cloudy
 
+<<<<<<< HEAD
    
+
+=======
+This is my second commit, PLEASE WORK-Ikya
+>>>>>>> a4d1a2fdda133851b1a94e330793fc2cbc18c262
+
+
 This is my second commit! Pagaaluck Oonsiri
