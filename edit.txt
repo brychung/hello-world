@@ -7000,3 +7000,17 @@ This is my second commit, PLEASE WORK-Ikya
 
 
 This is my second commit! Pagaaluck Oonsiri
+Hi! I'm the output from a bash script that uses
+a while loop and the GitHub API to periodically 
+edit files with the current time and date along
+with a weather report before pushing changes to a 
+remote repo.  
+
+This is loop number 100.
+The local system date and time is Mon Jun 13 22:35:29 PDT 2016.
+Here is a weather report for Oakland International Airport:
+Temperature: 60.1 F (15.6 C)
+   Relative Humidity: 69%
+   Wind: from the WNW (290 degrees) at 21 MPH (18 KT)
+   Sky conditions: partly cloudy
+
