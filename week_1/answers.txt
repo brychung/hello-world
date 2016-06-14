@@ -50,4 +50,4 @@ echo My lily, my one and only >> text_chunk2.txt
 echo I can hardly wait till I see her >> text_chunk2.txt
 echo Oh lily, I know you love me >> text_chunk2.txt
 echo Cause as they're draggin me away >> text_chunk2.txt
-echo I swear I saw her raise her hand and wave (goodbye) >> text_chunk2.txt
+echo "I swear I saw her raise her hand and wave (goodbye)" >> text_chunk2.txt
