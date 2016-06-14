@@ -1875,7 +1875,8 @@ Temperature: 59.0 F (15.0 C)
    Wind: from the WNW (290 degrees) at 12 MPH (10 KT)
    Sky conditions: overcast
 
-e d i t i n g   . . .   t h i s   . . . f i l e   . . .  
+e d i t i n g   . . .   t h i s   . . . f i l e   . . . 
+ 
  
 Hi! I'm the output from a bash script that uses
 a while loop and the GitHub API to periodically 
@@ -2161,3 +2162,4 @@ Temperature: 62.1 F (16.7 C)
    Wind: from the W (270 degrees) at 14 MPH (12 KT)
    Sky conditions: partly cloudy
 
+merge conflicts yay
