@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	ignorecase = true
+[remote "production"]
+	url = info18demon@gmail.com:~/testapp
+	fetch = +refs/heads/*:refs/remotes/production/*
